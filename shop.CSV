@@ -1,4 +1,5 @@
 Item,Description,U/M,Price
+Koten:Motor Controls:Magnetic Motor Starter:1:1.51,0,each (ea),2352
 Omni:Extension:Universal Extension Cord:WEU-108-PK, (WEU-108-PK) Omni Universal Outlet Extension Cord 8-Gang,each (ea),699.75
 Slotted Wire Duct:2x2," 2""x2"" Slotted Wire Duct",piece (pc),350
 Slotted Wire Duct:3x3," 3""x3"" Slotted Wire Duct",piece (pc),670
@@ -291,9 +292,9 @@ Panasonic:Wide Series:Door bell Switch:EBG 888,(CHIME) Panasonic Doorbell Chime 
 Hikvision:Colorvu:DS-2CE10KF0T-FS (2.8mm),"(Colorvu bullet type) DS-2CE10KF0T-FS (2.8mm) Hikvision Colorvu 247 color imaging 3K, 2960x1665,...",each (ea),1955
 Hikvision:Colorvu:DS-2CE70KF0T-MFS(2.8mm),"(Colorvu dome type) DS-2CE70KF0T-MFS(2.8mm) Hikvision Colorvu 247 color imaging 3K, 2960x1665, d...",each (ea),1794
 Koten:Cover of Panel:10brs Premium,(COVER ONLY) Koten Panel Board 10brs Premium,piece (pc),580
-Solderless Connector:Double Bolt:SC-1/0-2/0 (50-60mm.sq.),(double bolt) Solderless Connector (1/0-2/0AWG) 50-60mm 2Bolt *B09,each (ea),280
+Solderless Connector:Double Bolt:SC-1/0-2/0 (50-60mm.sq.),(double bolt) Solderless Connector (1/0-2/0AWG) 50-60mm 2Bolt *B09,each (ea),300
 Solderless Connector:Double Bolt:SC-1000MCM (500mm.sq.),"(double bolt) Solderless Connector 1,000 MCM 2Bolt (500mmsq) *B54",each (ea),1950
-Solderless Connector:Double Bolt:SC-250-350MCM (125-175mm.sq.),(double bolt) Solderless Connector 250-350 MCM 2Bolt  (125-175mm.sq.) *B18,each (ea),475
+Solderless Connector:Double Bolt:SC-250-350MCM (125-175mm.sq.),(double bolt) Solderless Connector 250-350 MCM 2Bolt  (125-175mm.sq.) *B18,each (ea),537.5
 Solderless Connector:Double Bolt:SC-400-500MCM (200-250mm.sq.),(double bolt) Solderless Connector 500 MCM 2Bolt (200-250mm.sq.) *B27,each (ea),620
 Solderless Connector:Double Bolt:SC-500-1000MCM (500mm.sq.),(double bolt) Solderless Connector 500-1000 MCM 2Bolt Tap Side 2Sol-1000 *B45,each (ea),1950
 Solderless Connector:Double Bolt:SC-500-750 MCM (375 mm.sq.),(double bolt) Solderless Connector 750 MCM (375mm2)2Bolt *B36,each (ea),1015
@@ -337,7 +338,7 @@ Chint:Thermal Overload Relay:NR2-93:80-93A,(NR2-25 80-93A)..Chint Thermal Overlo
 Chint:Thermal Overload Relay:NR2-25:9-13A,(NR2-25 9-13A)..Chint Thermal Overload Relay..Setting Range 9-13A..For NC1-1810/01 NC1-2510/01 *...,each (ea),996
 Firefly:Ecolum-Louvers:Industrial Type-Powder:2x40Watts:ESLI2x40/0,(OPEN WHITE) Ecolum 40Wattsx2 Industrial Type W/Powder Coated Reflector-Fixture Only(1250x190x80...,each (ea),400
 Firefly:Strip Light:Neon (per meter):Warm White:ENL212009WW16-50,(per meter) Firefly Neon Flex 120Leds 220V Warm White,meter (m),190
-Philflex:PDX:2.6/2mm.ø(#10/2 AWG):Per Meter,(per meter) Philflex PDX 2.6mm/5.5mmsq.ø (#10/2 AWG),meter (m),103
+Philflex:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Meter,(per meter) Philflex PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG),meter (m),103
 Garden Lantern:Post Mounted:FLES922,(POST MOUNTED) Firefly Garden Lantern Fixture Post Mount 515mm x 215mm (FLES922),each (ea),800
 Royu:Rail Type Panel Box w/ Busbar:Flush Type:RDB-4F,(RDB-4F) ROYU (RDB-4F) Distribution Box W/ Busbar Flush Type 4-Mudule,each (ea),380
 Firefly:Ecolum-Louvers:Recessed Type W/ Aluminum Refl.:2x40Watts:ESLR2X40/0,(RECESSED TYPE) Ecolum Recessed Type 2x40Watts W/ Aluminum Reflector-Fixture Only (ESLR2X40/0),each (ea),1060
@@ -461,6 +462,7 @@ Firefly:Center Light:Tri-color:ECL918TC:18watts Tri-color,[ECL918TC] Firefly Bas
 Firefly:Center Light:Tri-color:ECL924TC:24watts Tri-color,[ECL924TC] Firefly Basic Tri-color 24watts Crystal Ceiling Lamp,piece (pc),940
 Firefly:Downlights- Surface Slim:Daylight- SURFACE:Square DAYLIGHT SURFACE:EDL123724DL,[EDL123724DL] Firefly Basic LED Square Surface Downlight 24W Daylight,each (ea),660
 FSL:Flood Light (daylight):150WattsDL:FFL150D81002,[FFL150D81002] FSL Floodlight IP65 150Watts Daylight,piece (pc),4410
+Fanhey:1002ATS,[FHG-100/2P] Fanhey ATS Dual Power 100A 2P,each (ea),7628
 BULL:GFCI:G34Z233B,[G34Z233B] BULL GFCI Outlet with Indicator Light 16A,,1200
 Chint:Push Button:Non Illuminated:NP2-BA35,"[GREEN] [NP2-BA35] Chint Non Illuminated Push Button, 220v 1NO+1NC",each (ea),250
 Phelps Dodge:Electrical Tape:ETPDGR,[GREEN] PhelpsDodge Electrical Tape,each (ea),40
@@ -885,10 +887,10 @@ Ian Solar Marketing:Bolt & Nut:1-1/4L x 1/2Dia Rail & Braket,Bolt & Nut For Sola
 Ian Solar Marketing:Bolt & Nut:Bolt Assembly,Bolt Assembly,each (ea),12.5
 No More Nails:30Grams,Bostic No More Nail 30 Grams *Y144,each (ea),62
 vulcaseal,Bostik Vulcaseal,piece (pc),85
-Boston:PDX:1.6/2mm.ø(#14/2 AWG):Per Mtrs.,BOSTON PDX 1.6mm/2mmsq.ø (#14/2 AWG),meter (m),46
-Boston:PDX:2.0/2mm.ø(#12/2 AWG):Per Mtrs.,BOSTON PDX 2.0mm/3.5mmsq.ø (#12/2 AWG),meter (m),60.5
-Boston:PDX:2.6/2mm.ø(#10/2 AWG):Per Mtrs.,BOSTON PDX 2.6mm/2mmsq.ø (#10/2 AWG),meter (m),73
-Boston:PDX:2.6/2mm.ø(#10/2 AWG).:Per Mtrs.,BOSTON PDX 2.6mm/5.5mmsq.ø (#10/2 AWG),meter (m),86
+Boston:PDX:1.6/2mm.ï¿½(#14/2 AWG):Per Mtrs.,BOSTON PDX 1.6mm/2mmsq.ï¿½ (#14/2 AWG),meter (m),46
+Boston:PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Mtrs.,BOSTON PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG),meter (m),60.5
+Boston:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Mtrs.,BOSTON PDX 2.6mm/2mmsq.ï¿½ (#10/2 AWG),meter (m),73
+Boston:PDX:2.6/2mm.ï¿½(#10/2 AWG).:Per Mtrs.,BOSTON PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG),meter (m),86
 Boston:Royal Cord:#14/3,Boston Royal Cord #14/3,meter (m),76
 Butane Gas:Bounce,Bounce/Konice/FERC Sonic Butane Gas,each (ea),105
 Koten:Boxes:Economy 2P 10Brs. Flush Typ,Boxes For Economy 2P 10Brs. Flush Type,each (ea),15.12
@@ -1033,7 +1035,7 @@ Chint:Magnetic Contactor 230Vac:NC1-0910,Chint Magnetic Contactor NC1-0910..9A 2
 Chint:Magnetic Contactor 230Vac:NC1-1201,Chint Magnetic Contactor NC1-1201..12A 230Vac 3.0KW 5HP 1NC,each (ea),1100
 Chint:Magnetic Contactor 230Vac:NC1-1210,Chint Magnetic Contactor NC1-1210..12A 230Vac 3.0KW 5HP 1NO,each (ea),1100
 Chint:Magnetic Contactor 230Vac:NC1-1801,Chint Magnetic Contactor NC1-1801..18A 230Vac 4KW 7.5HP 1NC,each (ea),1100
-Chint:Magnetic Contactor 230Vac:NC1-1810,Chint Magnetic Contactor NC1-1810..18A 230Vac 4KW 7.5HP 1NO,each (ea),1100
+Chint:Magnetic Contactor 230Vac:NC1-1810,Chint Magnetic Contactor NC1-1810..18A 230Vac 4KW 7.5HP 1NO,each (ea),1460
 Chint:Magnetic Contactor 230Vac:NC1-2501,Chint Magnetic Contactor NC1-2501..25A 230Vac 5.5KW 10HP 1NC,each (ea),1200
 Chint:Magnetic Contactor 230Vac:NC1-2510,Chint Magnetic Contactor NC1-2510..25A 230Vac 5.5KW 10HP 1NO *J70,each (ea),1200
 Chint:Magnetic Contactor 230Vac:NC1-3201,Chint Magnetic Contactor NC1-3201..32A 230Vac 32KW 15HP 1NC,each (ea),2605
@@ -1044,9 +1046,9 @@ Chint:Magnetic Contactor 230Vac:NC1-9511,Chint Magnetic Contactor NC1-9511..95A 
 Chint:Rail Type Circuit Breakers:DZ158-125 2Pole 10KAIC:1002C MCB,Chint Main Miniature Circuit Breaker..100A 2P DZ158-125 10KAIC 400Vac,each (ea),1670
 Chint:Rail Type Circuit Breakers:DZ158-125 3Pole 10KAIC:1003 DZ158-125,Chint Main Miniature Circuit Breaker..100A 3P DZ158-125 10KAIC 400Vac,each (ea),1285
 Chint:Rail Type Circuit Breakers:DZ158-125 1Pole 10KAIC:1251DZ158-125,Chint Main Miniature Circuit Breaker..125A 1P DZ158-125 10KAIC 400Vac,each (ea),685
-Chint:Rail Type Circuit Breakers:DZ158-125 2Pole 10KAIC:1252C MCB,Chint Main Miniature Circuit Breaker..125A 2P DZ158-125 10KAIC 400Vac,each (ea),1670
+Chint:Rail Type Circuit Breakers:DZ158-125 2Pole 10KAIC:1252C MCB,Chint Main Miniature Circuit Breaker..125A 2P DZ158-125 10KAIC 400Vac,each (ea),1910
 Chint:Rail Type Circuit Breakers:DZ158-125 3Pole 10KAIC:1253DZ158-125,Chint Main Miniature Circuit Breaker..125A 3P DZ158-125 10KAIC 400Vac,each (ea),1480
-Chint:Rail Type Circuit Breakers:DZ158-125 2Pole 10KAIC:802C MCB,Chint Main Miniature Circuit Breaker..80A 2P DZ158-125 10KAIC 400Vac,each (ea),1130
+Chint:Rail Type Circuit Breakers:DZ158-125 2Pole 10KAIC:802C MCB,Chint Main Miniature Circuit Breaker..80A 2P DZ158-125 10KAIC 400Vac,each (ea),1505
 Chint:Rail Type Circuit Breakers:DZ158-125 3Pole 10KAIC:803DZ158-125,Chint Main Miniature Circuit Breaker..80A 3P DZ158-125 10KAIC 400Vac,each (ea),1255
 Chint:Rail Type Circuit Breakers:EB 1P 4.5KAIC 400Vac:11CK63N4.5k,Chint MCB EB 1P C1 4.5KA,each (ea),160
 Chint:Rail Type Circuit Breakers:EB 3P 4.5KAIC 400Vac:633CK63N4.5k,Chint MCB EB 3P C63 4.5KA,each (ea),675
@@ -1348,8 +1350,8 @@ Eagle:Weather Proof,Eagle Weather Proof Duplex Flush Receptacle **R108,each (ea)
 Firefly:Center Light:Daylight:ECL712DL:12Watts DL,ECL712DL Firefly Basic LED Ceiling Lamp 12W DL,piece (pc),430
 Firefly:Center Light:Daylight:ECL718DL:18Watts DL,ECL718DL Firefly Basic LED Ceiling Lamp 18W DL,piece (pc),620
 Firefly:Center Light:Daylight:ECL724DL:24Watts DL,ECL724DL Firefly Basic LED Ceiling Lamp 24W DL,piece (pc),700
-Ecodex:Electrical Pipe Connector:EPC-34,"Ecodex PVC Electrical Connector 3/4"" Ø",each (ea),13
-Ecodex:Flexible Connector:FHC-34,"Ecodex PVC Flexible Connector 3/4"" Ø",each (ea),13
+Ecodex:Electrical Pipe Connector:EPC-34,"Ecodex PVC Electrical Connector 3/4"" ï¿½",each (ea),13
+Ecodex:Flexible Connector:FHC-34,"Ecodex PVC Flexible Connector 3/4"" ï¿½",each (ea),13
 "Hardware:Ecofor Wood:2""x2""x12'","Ecofor Wood 2""x2""x12'",,150
 "Hardware:Ecofor Wood:2""x3""x12'","Ecofor Wood 2""x3""x12'",,220
 "Hardware:Ecofor Wood:2""x4""x12'","Ecofor Wood 2""x4""x12'",piece (pc),380
@@ -1402,8 +1404,8 @@ Alasco:Electrical Pipe Connector:EPC-34,Electrical Pipe Connector 3/4,each (ea),
 Sassin:Electromagnetic Type Buzzer:Siren (Horn Type):3S-MS390,Electromagnetic Type Buzzer Air Horn Sound 60Decibel (3S-MS390),each (ea),2300
 Electric Fence Energiser:XSD-A6,Electronic Fence Controller,each (ea),3723
 Thermostat:Thermostat Digital:ECS-02CX,Elitech Thermostat For Chiller/Freezer ..Model: ECS-02CX,each (ea),1075
-"Emerald:40mm Ø (1-1/4"" Ø):EPE-114","Emerald PVC Conduit Pipe 40mm Ø (1-1/4"" Ø) Thick Wall",each (ea),163
-"Emerald:50mm Ø (1-1/2"" Ø):EPE-112","Emerald PVC Conduit Pipe 50mm Ø (1-1/2"" Ø) Thick Wall",each (ea),207
+"Emerald:40mm ï¿½ (1-1/4"" ï¿½):EPE-114","Emerald PVC Conduit Pipe 40mm ï¿½ (1-1/4"" ï¿½) Thick Wall",each (ea),163
+"Emerald:50mm ï¿½ (1-1/2"" ï¿½):EPE-112","Emerald PVC Conduit Pipe 50mm ï¿½ (1-1/2"" ï¿½) Thick Wall",each (ea),207
 "EMT:Bushing:1""","EMT Bushing 1""",piece (pc),14
 "EMT:Conduit Hanger W/ Screw & Nut:1"" (25.4mm)","EMT Conduit Hanger W/ Screw & Nut 1"" 1"" (25.4mm) *B76",each (ea),25
 "EMT:Conduit Hanger W/ Screw & Nut:1/2"" (12.7mm)","EMT Conduit Hanger W/ Screw & Nut 1/2"" (12.7mm) *B58",each (ea),15
@@ -1445,10 +1447,10 @@ Koten:Safety Breakers ABS:KSB NEMA-3R 2P ABS Plastic Encl:KSB-3R 2P Enclosure On
 Firefly:Downlights- Recessed Slim:Recessed Type - Glossy:Round type without bulb:FLESDL3.5/E27B,"ESL DOWNLIGHT 3.5"" E27 Glossy Type",piece (pc),110
 Firefly:Downlights- Recessed Slim:Recessed Type - Glossy:Round type without bulb:FLESDL4/E27B,"ESL DOWNLIGHT 4"" E27 Glossy Type",piece (pc),130
 Firefly:Downlights- Recessed Slim:Recessed Type - Glossy:Round type without bulb:FLESDL6/E27B,"ESL DOWNLIGHT 6"" E27 Glossy Type",piece (pc),140
-Euroflex:Flexible Hose:25mm Ø (3/4Ø):FHE-34,Euroflex Flexible Hose 25mm Ø (3/4 Ø),meter (m),13
-Euroflex:Flexible Hose:25mm Ø (3/4Ø):FHE-3450,Euroflex Flexible Hose 25mm Ø (3/4 Ø) 50Mtrs,Rolls (Rll),565
-Euroflex:Flexible Hose:32mm Ø (1Ø):FHE-150,Euroflex Flexible Hose 32mm Ø (1 Ø) 50Mtrs,Rolls (Rll),760
-Euroflex:Flexible Hose:32mm Ø (1Ø):FHE-1,Euroflex Flexible Hose 32mm Ø (1Ø),meter (m),18
+Euroflex:Flexible Hose:25mm ï¿½ (3/4ï¿½):FHE-34,Euroflex Flexible Hose 25mm ï¿½ (3/4 ï¿½),meter (m),13
+Euroflex:Flexible Hose:25mm ï¿½ (3/4ï¿½):FHE-3450,Euroflex Flexible Hose 25mm ï¿½ (3/4 ï¿½) 50Mtrs,Rolls (Rll),565
+Euroflex:Flexible Hose:32mm ï¿½ (1ï¿½):FHE-150,Euroflex Flexible Hose 32mm ï¿½ (1 ï¿½) 50Mtrs,Rolls (Rll),760
+Euroflex:Flexible Hose:32mm ï¿½ (1ï¿½):FHE-1,Euroflex Flexible Hose 32mm ï¿½ (1ï¿½),meter (m),18
 Eurolux:Electronic Energy Saver:Spiral:10Watts,Eurolux 10Watts Energy Saver Spiral Daylight,each (ea),160
 EVLA:Distribution Box,Evla Distribution Box C10,piece (pc),650
 EVLA:Center Light:Tri-color:30W Tri-color,EVLA TRI-COLOR LED Ceiling Light 30W 15inch Diameter,piece (pc),599.5
@@ -1803,7 +1805,7 @@ FSL:Track Bar:Black:1.50m B,FSL Track Bar ABS+ Copper 1.50m Black,piece (pc),378
 FSL:Track Bar:White:1.50m W,FSL Track Bar ABS+ Copper 1.50m White,piece (pc),450
 FSL:Track Bar:Black:2.0m,FSL Track Bar ABS+ Copper 2.0m Black (2wires),piece (pc),650
 Fuji:Electromagnetic:HH54P-JL,Fuji Electromagnetic Relay 14 Pins 220Vac (3S-HH54P) *YS35,each (ea),125
-Welding Rod:Fuji:3.2 mm. Ø,Fuji Welding Rod 3.2,each (ea),190
+Welding Rod:Fuji:3.2 mm. ï¿½,Fuji Welding Rod 3.2,each (ea),190
 Solar Parts:MC4 Accessories:Fuse 15A,Fuse 15A,each (ea),150
 Biglite:Center Light:Square:W859 (G),G- (W859) Biglite 92watts LED Low Ceiling Lamp Tricolor - 5 squares with one square base (dia;50...,piece (pc),2886
 Water Pressure Switch:Adapter,"g. i. nipple 5cm 1/2x2..g.i. tee 1/2""..elbow 90deg 1/4....",Set/s (St),498
@@ -1995,12 +1997,12 @@ TYY Conventional Fire Alarm:Strobe/ Siren Conventional,Honeywall Strobe / Siren 
 FROM IIEE PRODUCT PRESENTATION:HPHP 3P 15A (PLUG-IN),HPHP 3P 15A (PLUG-IN),piece (pc),999
 HSS:Drill Bit Steel:6mm,"HSS Metal Drill Bit ?"" (6mm)",each (ea),115
 "HSS:Drill Bit Steel:5/32""","HSS Metal Drill Bit 5/32"" (4mm)",each (ea),68
-Hub:HU-112,Hub 1-1/2Ø *B21,each (ea),170
-Hub:HU-114,Hub 1-1/4Ø *B12,each (ea),145
-Hub:HU-1,Hub 1Ø *B03,each (ea),125
-Hub:HU-212,Hub 2-1/2Ø,each (ea),362.5
-Hub:HU-2,Hub 2Ø *B30,each (ea),200
-Hub:HU-34,Hub 34Ø,each (ea),112.5
+Hub:HU-112,Hub 1-1/2ï¿½ *B21,each (ea),170
+Hub:HU-114,Hub 1-1/4ï¿½ *B12,each (ea),145
+Hub:HU-1,Hub 1ï¿½ *B03,each (ea),125
+Hub:HU-212,Hub 2-1/2ï¿½,each (ea),362.5
+Hub:HU-2,Hub 2ï¿½ *B30,each (ea),200
+Hub:HU-34,Hub 34ï¿½,each (ea),112.5
 HUB SCREW,HUB SCREW (NOT PART OF INVENTORY) *G97,,0
 Lightning Arrester 15KV:Hubbel:15KV,Hubbel Lighting Arrester 15KV,each (ea),0
 Lightning Arrester 9KV:Hubbel:9KV,Hubbel Lighting Arrester 9-10KV,each (ea),3000
@@ -2038,10 +2040,10 @@ Ian Solar Marketing:Ian Solar Panel:450W,"Ian Solar Panel (IAN450-144-MH)..Pmax-
 Ian Solar Marketing:Ian Solar Panel:550W,"Ian Solar Panel (IAN450-144-MH)..Pmax-550W-3%, Imp-10.85A, Vmp-41.5V, Isc-11.6+/-3%A, Voc-49.3+/...",each (ea),6210
 Hikvision:DVR:4channel:iDS-7204HQHI-M1/XT,iDS-7204HQHI-M1/XT Hikvision 4channel DVR up to 3k/5mp Acusense Hybrid Digital Video Recorder Tu...,Set/s (St),2696.75
 Hikvision:DVR:8channel:iDS-7208HQHI-M1/XT,iDS-7208HQHI-M1/XT Hikvision 8channel DVR up to 3k/5mp Acusense Hybrid Digital Video Recorder Tu...,Set/s (St),4082.5
-"Imperial:PVC Conduit Pipe Thick Wall:20mm Ø (1/2"" Ø):EPI-12","Imperial PVC Conduit Pipe 20mm Ø (1/2"" Ø) Thick Wall",each (ea),66
-"Imperial:PVC Conduit Pipe Thick Wall:25mm Ø (3/4"" Ø):EPI-34","Imperial PVC Conduit Pipe 25mm Ø (3/4"" Ø) Thick Wall",each (ea),95
-"Imperial:PVC Conduit Pipe Thick Wall:32mm Ø (1"" Ø):EPI-1","Imperial PVC Conduit Pipe 32mm Ø (1"" Ø) Thick Wall",each (ea),127
-"Imperial:PVC Conduit Pipe Thick Wall:40mm Ø (1-1/4"" Ø):EPI-114","Imperial PVC Conduit Pipe 40mm Ø (1-1/4"" Ø) Thick Wall",each (ea),140
+"Imperial:PVC Conduit Pipe Thick Wall:20mm ï¿½ (1/2"" ï¿½):EPI-12","Imperial PVC Conduit Pipe 20mm ï¿½ (1/2"" ï¿½) Thick Wall",each (ea),66
+"Imperial:PVC Conduit Pipe Thick Wall:25mm ï¿½ (3/4"" ï¿½):EPI-34","Imperial PVC Conduit Pipe 25mm ï¿½ (3/4"" ï¿½) Thick Wall",each (ea),95
+"Imperial:PVC Conduit Pipe Thick Wall:32mm ï¿½ (1"" ï¿½):EPI-1","Imperial PVC Conduit Pipe 32mm ï¿½ (1"" ï¿½) Thick Wall",each (ea),127
+"Imperial:PVC Conduit Pipe Thick Wall:40mm ï¿½ (1-1/4"" ï¿½):EPI-114","Imperial PVC Conduit Pipe 40mm ï¿½ (1-1/4"" ï¿½) Thick Wall",each (ea),140
 Shop OL:Incubator Motor Set,Incubator Motor Set (egg Turner) Motor 60KTYZ Synchronous Motor,piece (pc),1450
 Industrial Plug and Outlet:Industrial Outlet Round,Industrial Outlet 32A Round Type,each (ea),153
 Industrial Plug and Outlet:Industrial Outlet Square,Industrial Outlet 32A Wall Type,each (ea),153
@@ -2106,21 +2108,21 @@ INGCO TOOLS:Hand Tools:Tool Bag/Box:HTBP03011:8kg,Ingco Tool Bag L290 X W190mm 8
 INGCO TOOLS:DMD031002:Turbo Diamond Disc,"Ingco Turbo Diamond Disc 4"" DMD031002",piece (pc),180
 INGCO TOOLS:Hand Tools:Wire Stripper:HWSP15608,Ingco Wire Stripper (HWSP15608),pack (pack),420
 Insulator,Insulator (blue),,15
-"Insulflex/Superlon:Rubber Insulation (1.80M):1"" Thickness:RI-1201","Insulflex/Superlon 1/2"" Øx1""Thick Rubber Insulation",each (ea),0
-"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-1212","Insulflex/Superlon 1/2"" Øx1/2""Thick Rubber Insulation",each (ea),70
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/4"" Thickness:RI-1234","Insulflex/Superlon 1/2"" Øx3/4""Thick Rubber Insulation",each (ea),126
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-1238","Insulflex/Superlon 1/2"" Øx3/8""Thick Rubber Insulation",each (ea),50
-"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-1412","Insulflex/Superlon 1/4"" Øx1/2""Thick Rubber Insulation",each (ea),50
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-1438","Insulflex/Superlon 1/4"" Øx3/8""Thick Rubber Insulation",each (ea),45
-"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-3412","Insulflex/Superlon 3/4"" Øx1/2""Thick Rubber Insulation",each (ea),83
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/4"" Thickness:RI-3434","Insulflex/Superlon 3/4"" Øx3/4""Thick Rubber Insulation",each (ea),156
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-3438","Insulflex/Superlon 3/4"" Øx3/8""Thick Rubber Insulation",each (ea),0
-"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-3812","Insulflex/Superlon 3/8"" Øx1/2""Thick Rubber Insulation",each (ea),60
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/4"" Thickness:RI-3834","Insulflex/Superlon 3/8"" Øx3/4""Thick Rubber Insulation",each (ea),100
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-3838","Insulflex/Superlon 3/8"" Øx3/8""Thick Rubber Insulation",each (ea),29
-"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-5812","Insulflex/Superlon 5/8"" Øx1/2""Thick Rubber Insulation",each (ea),81
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/4"" Thickness:RI-5834","Insulflex/Superlon 5/8"" Øx3/4""Thick Rubber Insulation",each (ea),110
-"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-5838","Insulflex/Superlon 5/8"" Øx3/8""Thick Rubber Insulation",each (ea),45
+"Insulflex/Superlon:Rubber Insulation (1.80M):1"" Thickness:RI-1201","Insulflex/Superlon 1/2"" ï¿½x1""Thick Rubber Insulation",each (ea),0
+"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-1212","Insulflex/Superlon 1/2"" ï¿½x1/2""Thick Rubber Insulation",each (ea),70
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/4"" Thickness:RI-1234","Insulflex/Superlon 1/2"" ï¿½x3/4""Thick Rubber Insulation",each (ea),126
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-1238","Insulflex/Superlon 1/2"" ï¿½x3/8""Thick Rubber Insulation",each (ea),50
+"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-1412","Insulflex/Superlon 1/4"" ï¿½x1/2""Thick Rubber Insulation",each (ea),50
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-1438","Insulflex/Superlon 1/4"" ï¿½x3/8""Thick Rubber Insulation",each (ea),45
+"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-3412","Insulflex/Superlon 3/4"" ï¿½x1/2""Thick Rubber Insulation",each (ea),83
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/4"" Thickness:RI-3434","Insulflex/Superlon 3/4"" ï¿½x3/4""Thick Rubber Insulation",each (ea),156
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-3438","Insulflex/Superlon 3/4"" ï¿½x3/8""Thick Rubber Insulation",each (ea),0
+"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-3812","Insulflex/Superlon 3/8"" ï¿½x1/2""Thick Rubber Insulation",each (ea),60
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/4"" Thickness:RI-3834","Insulflex/Superlon 3/8"" ï¿½x3/4""Thick Rubber Insulation",each (ea),100
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-3838","Insulflex/Superlon 3/8"" ï¿½x3/8""Thick Rubber Insulation",each (ea),29
+"Insulflex/Superlon:Rubber Insulation (1.80M):1/2"" Thickness:RI-5812","Insulflex/Superlon 5/8"" ï¿½x1/2""Thick Rubber Insulation",each (ea),81
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/4"" Thickness:RI-5834","Insulflex/Superlon 5/8"" ï¿½x3/4""Thick Rubber Insulation",each (ea),110
+"Insulflex/Superlon:Rubber Insulation (1.80M):3/8"" Thickness:RI-5838","Insulflex/Superlon 5/8"" ï¿½x3/8""Thick Rubber Insulation",each (ea),45
 Irveo:Drill Bit:Masonry Drill Bit:IMD-6,Irveo Masonry Drill Bit 1/4 (6mm x 160),each (ea),75
 Irwin Diamond:Segmented,"Irwin Diamond Cutter Segmented 4""",each (ea),325
 Irwin Diamond:Turbo,"Irwin Diamond Cutter Turbo 4""",each (ea),350
@@ -2302,12 +2304,12 @@ Koten:Panel Boards:Economy Type  (2pole-two pole):Flush Type (Side Main):6Brs Ec
 Koten:Panel Boards:Economy Type  (2pole-two pole):Flush Type (Side Main):10Brs Eco PBE 2P Flush,Koten Economy Type Panel Board..Flush Type (430x225x97mm)..Main:2P Plug In 240V (HPH-P 2P)..Bran...,each (ea),2956
 Koten:Panel Boards:Economy Type  (2pole-two pole):Flush Type (Side Main):8Brs Eco PBE 2P Flush,Koten Economy Type Panel Board..Flush Type (430x255x97mm)..Main:2P Plug In 240V (HPH-P 2P)..Bran...,each (ea),2585
 Koten:Panel Boards:Economy Type  (2pole-two pole):Flush Type (Side Main):12Brs Eco PBE 2P Flush,Koten Economy Type Panel Board..Flush Type (530x255x97mm)..Main:2P Plug In 240V (HPH-P 2P)..Bran...,each (ea),3435
-"Koten:Flexible Hose:32mm Ø (1"" Ø):FHK-1",Koten Flexible Hose 1,meter (m),19
-Koten:Flexible Hose:20mm Ø (1/2 Ø):FHK-12,Koten Flexible Hose 12,meter (m),8
-Koten:Flexible Hose:25mm Ø (3/4 Ø):FHK-34,Koten Flexible Hose 34,meter (m),14
-Koten:Flexible Hose:20mm Ø (1/2 Ø):FHK-1250,Koten Flexible Hose kch-1/2-50Mtrs,Rolls (Rll),356
-"Koten:Flexible Hose:32mm Ø (1"" Ø):FHK-150",Koten Flexible Hose kch-1-50Mtrs,Rolls (Rll),858
-Koten:Flexible Hose:25mm Ø (3/4 Ø):FHK-3450,Koten Flexible Hose kch-3/4-50Mtrs,Rolls (Rll),580
+"Koten:Flexible Hose:32mm ï¿½ (1"" ï¿½):FHK-1",Koten Flexible Hose 1,meter (m),19
+Koten:Flexible Hose:20mm ï¿½ (1/2 ï¿½):FHK-12,Koten Flexible Hose 12,meter (m),8
+Koten:Flexible Hose:25mm ï¿½ (3/4 ï¿½):FHK-34,Koten Flexible Hose 34,meter (m),14
+Koten:Flexible Hose:20mm ï¿½ (1/2 ï¿½):FHK-1250,Koten Flexible Hose kch-1/2-50Mtrs,Rolls (Rll),356
+"Koten:Flexible Hose:32mm ï¿½ (1"" ï¿½):FHK-150",Koten Flexible Hose kch-1-50Mtrs,Rolls (Rll),858
+Koten:Flexible Hose:25mm ï¿½ (3/4 ï¿½):FHK-3450,Koten Flexible Hose kch-3/4-50Mtrs,Rolls (Rll),580
 Koten:Insert key:Holder W/ Power Supply:IKH,Koten Insert Key Holder W/ Power Supply and 15A,Set/s (St),856
 Koten:Panel Boards:Nema-3R Metal Enclosure:Bolt On Type (Industrial):K3R PW250SP 2P,Koten K3R PW250 Enclosure(167mmx312mmx101mm),each (ea),1187.5
 Koten:Panel Board w/ MTS K63N:Flush Type MCB Panel w/ MTS:10Brs MTS Main (K63N 2Px2),Koten K63N  Panel Box Flush Type W/Grnd...MTS Main K63N 2P Brs. 10x2P K63N..Size:555mmx360mmx130mm,each (ea),8287
@@ -2606,8 +2608,8 @@ Auto Gate Parts:M8 Bolt Nut,M8 Bolt Nut,piece (pc),75
 12V Magnetic Switch:CJX2 1210,Magnetic Switch 12V (CJX2 1210),each (ea),1030
 Metal Hole Saw:Manual Knock Out Punch Driver,"Manual Knock Out Punch Driver Kit Hole Tool 1/2"" to 2"".",Set/s (St),3800
 Map Gas:MG-453G,Map Gas,each (ea),400
-Marton:PDX:2.6/2mm.ø(#10/2 AWG):Per Mtrs.,Marton  PDX 2.6mm/2mmsq.ø (#10/2 AWG),meter (m),86
-Marton:PDX:2.0/2mm.ø(#12/2 AWG):Per Mtrs.,Marton PDX 2.0mm/3.5mmsq.ø (#12/2 AWG),meter (m),60.5
+Marton:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Mtrs.,Marton  PDX 2.6mm/2mmsq.ï¿½ (#10/2 AWG),meter (m),86
+Marton:PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Mtrs.,Marton PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG),meter (m),60.5
 Armak:Masking Tape:MT1,"Masking Tape 1"" (MT-1 Armak) **R59",each (ea),40
 Armak:Masking Tape:MT12,"Masking Tape 1/2"" x 48"" (MT-12)",Rolls (Rll),35
 Solar Parts:MC4 Accessories:MC4 Connector Fuse Holder,MC4 Connector Fuse Holder Protection PV Photovoltaic. *R31,each (ea),315
@@ -2661,14 +2663,14 @@ Metal Flexible Connector:Angle Connector:3/4,"Metal Angle Connector 3/4"" (for f
 "Metal Flexible Hose:per roll:3""","Metal Flexible Hose 3"" (7.5M)",Rolls (Rll),3500
 "Metal Flexible Hose:per meter:3/4""","Metal Flexible Hose 3/4""",meter (m),35
 "Metal Flexible Hose:per roll:3/4""","Metal Flexible Hose 3/4""",Rolls (Rll),902
-Metal Hole Saw:HS-16mm-30mm,"Metal Hole Saw #16, 18.5, 20, 25, 30mm Ø",Set/s (St),618
-Metal Hole Saw:HS-16,Metal Hole Saw #16mm Ø *B82,each (ea),505
-Metal Hole Saw:HS-18,Metal Hole Saw #18mm Ø *B82,each (ea),250
-Metal Hole Saw:HS-20,Metal Hole Saw #20mm Ø *B82,each (ea),315
-Metal Hole Saw:HS-22,"Metal Hole Saw #22mm Ø for 1/2"" (20mm) Pipe *B82",each (ea),395
-Metal Hole Saw:HS-25,Metal Hole Saw #25mm Ø *B82,each (ea),495
-Metal Hole Saw:HS-35,Metal Hole Saw #35mm Ø *B82,each (ea),857
-Metal Hole Saw:HS-42,Metal Hole Saw #42mm Ø *B82,each (ea),990
+Metal Hole Saw:HS-16mm-30mm,"Metal Hole Saw #16, 18.5, 20, 25, 30mm ï¿½",Set/s (St),618
+Metal Hole Saw:HS-16,Metal Hole Saw #16mm ï¿½ *B82,each (ea),505
+Metal Hole Saw:HS-18,Metal Hole Saw #18mm ï¿½ *B82,each (ea),250
+Metal Hole Saw:HS-20,Metal Hole Saw #20mm ï¿½ *B82,each (ea),315
+Metal Hole Saw:HS-22,"Metal Hole Saw #22mm ï¿½ for 1/2"" (20mm) Pipe *B82",each (ea),395
+Metal Hole Saw:HS-25,Metal Hole Saw #25mm ï¿½ *B82,each (ea),495
+Metal Hole Saw:HS-35,Metal Hole Saw #35mm ï¿½ *B82,each (ea),857
+Metal Hole Saw:HS-42,Metal Hole Saw #42mm ï¿½ *B82,each (ea),990
 Metal Screw:MS-101,Metal Screw #10x1 *Y15,each (ea),1
 Metal Screw:MS-1012,Metal Screw #10x1/2 *Y14,each (ea),0.5
 Metal Screw:MS-10112,Metal Screw #10x1-1/2 *Y16,each (ea),2.5
@@ -2695,7 +2697,7 @@ Push Botton Switch,Mini Momentary Push Button Switch *YS45,each (ea),30
 Travelling Income,Mobilization,,0
 Lighting Display:Modern Wood Light:18watts Square,Modern Led Ceiling Light w/ Remote Control -Switch Dimmable- 18watts (30cmx30cmx5cm),piece (pc),880
 Lighting Display:Modern Wood Light:27watts Square,Modern Led Ceiling Light w/ Remote Control -Switch Dimmable- 27watts (40cmx40cmx5cm),piece (pc),1150
-Moldflex:Flexible Hose:FHM-34,Moldflex Flexible Hose 25mm Ø (3/4 Ø) 50Mtrs,Rolls (Rll),912
+Moldflex:Flexible Hose:FHM-34,Moldflex Flexible Hose 25mm ï¿½ (3/4 ï¿½) 50Mtrs,Rolls (Rll),912
 Motor Protection Relay:MDB-201Z,"Motor Protection Relay, 220V, Current Setting 2-99A (MDB-201Z)",each (ea),1500
 Solar Parts:SRNE MPPT SCC:MPPT Solar Charge Controller:ML4820,MPPT Solar Charge Controller 12/24V 20A (ML4820),each (ea),3750
 Solar Parts:SRNE MPPT SCC:MPPT Solar Charge Controller:ML4840,MPPT Solar Charge Controller 12/24V 40A (ML4840),each (ea),5625
@@ -2715,17 +2717,17 @@ Nail Gun:Gun,Nail Gun,Set/s (St),562.5
 Neltex Cement:NC-100,Neltex Cement 100cc *Y109,each (ea),111
 Neltex Cement:NC-200,Neltex Cement 200cc *Y126,each (ea),157
 Neltex Cement:NC-400,Neltex Cement 400cc *Y127,each (ea),230.5
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:32mm Ø (1"" Ø):EPN-100","Neltex Certified  PVC Conduit Pipe 32mm Ø (1"" Ø) Thick Wall",each (ea),238.5
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:20mm Ø (1/2"" Ø):EPN-120","Neltex Certified PVC Conduit Pipe 20mm Ø (1/2"" Ø) Thick Wall",each (ea),119.25
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:25mm Ø (3/4"" Ø):EPN-340","Neltex Certified PVC Conduit Pipe 25mm Ø (3/4"" Ø) Thick Wall",each (ea),160
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:40mm Ø (1-1/4"" Ø):EPN-114","Neltex Certified PVC Conduit Pipe 40mm Ø (1-1/4"" Ø) Thick Wall",each (ea),248
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:50mm Ø (1-1/2"" Ø):EPN-112","Neltex Certified PVC Conduit Pipe 50mm Ø (1-1/2"" Ø) Thick Wall",each (ea),320
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:63mm Ø (2"" Ø):EPN-200","Neltex Certified PVC Conduit Pipe 63mm Ø (2""Ø) Thick Wall",each (ea),444.5
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:110mm Ø (3"" Ø):EPN-900","Neltex Certified PVC Conduit Pipe 90mm Ø (3"" Ø) Thick Wall",each (ea),
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:32mm ï¿½ (1"" ï¿½):EPN-100","Neltex Certified  PVC Conduit Pipe 32mm ï¿½ (1"" ï¿½) Thick Wall",each (ea),238.5
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:20mm ï¿½ (1/2"" ï¿½):EPN-120","Neltex Certified PVC Conduit Pipe 20mm ï¿½ (1/2"" ï¿½) Thick Wall",each (ea),119.25
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:25mm ï¿½ (3/4"" ï¿½):EPN-340","Neltex Certified PVC Conduit Pipe 25mm ï¿½ (3/4"" ï¿½) Thick Wall",each (ea),160
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:40mm ï¿½ (1-1/4"" ï¿½):EPN-114","Neltex Certified PVC Conduit Pipe 40mm ï¿½ (1-1/4"" ï¿½) Thick Wall",each (ea),248
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:50mm ï¿½ (1-1/2"" ï¿½):EPN-112","Neltex Certified PVC Conduit Pipe 50mm ï¿½ (1-1/2"" ï¿½) Thick Wall",each (ea),320
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:63mm ï¿½ (2"" ï¿½):EPN-200","Neltex Certified PVC Conduit Pipe 63mm ï¿½ (2""ï¿½) Thick Wall",each (ea),444.5
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:110mm ï¿½ (3"" ï¿½):EPN-900","Neltex Certified PVC Conduit Pipe 90mm ï¿½ (3"" ï¿½) Thick Wall",each (ea),
 Neltex (Power Line):Sanitary:Sanitary Pipe:Series 600:EPN63,"Neltex Pipe Sanitary 2""",each (ea),272
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:110mm Ø (4"" Ø):EPN-400","Neltex Power Line PVC Conduit Pipe 110mm Ø (4"" Ø) Thick Wall",each (ea),1675
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:75mm Ø (2-1/2"" Ø):EPN-212","Neltex Power Line PVC Conduit Pipe 75mm Ø (2-1/2"" Ø) Thick Wall",each (ea),697
-"Neltex (Power Line):PVC Conduit Pipe Thick Wall:90mm Ø (3"" Ø):EPN-300","Neltex Power Line PVC Conduit Pipe 90mm Ø (3""Ø) Thick Wall",each (ea),1281
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:110mm ï¿½ (4"" ï¿½):EPN-400","Neltex Power Line PVC Conduit Pipe 110mm ï¿½ (4"" ï¿½) Thick Wall",each (ea),1675
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:75mm ï¿½ (2-1/2"" ï¿½):EPN-212","Neltex Power Line PVC Conduit Pipe 75mm ï¿½ (2-1/2"" ï¿½) Thick Wall",each (ea),697
+"Neltex (Power Line):PVC Conduit Pipe Thick Wall:90mm ï¿½ (3"" ï¿½):EPN-300","Neltex Power Line PVC Conduit Pipe 90mm ï¿½ (3""ï¿½) Thick Wall",each (ea),1281
 Neltex (Power Line):PPR:PPR Coupling:12,"Neltex PP-R COUPLING 20mm (1/2"")",piece (pc),10
 Neltex (Power Line):PPR:PPR Coupling:34,"Neltex PP-R COUPLING 25mm (3/4"")",piece (pc),15
 Neltex (Power Line):PPR:PPR Coupling:1,"Neltex PP-R COUPLING 32mm (1"")",piece (pc),23
@@ -2807,12 +2809,12 @@ Numens:SNC-300-S2:Smoke Detector,Numens Smoke Detector,,821
 2B:Power Tools:Nylon:#100,Nylon grit #100,Rolls (Rll),20
 Oasis:Cutting Disc:CD-4,Oasis Cutting Disc Size: 105x1x16mm *Y45,each (ea),20
 Oasis:Grinding Disc:GD-4,Oasis Grinding Disc Size: 100x6x16mm,each (ea),45
-Omega:PDX:1.6/2mm.ø(#14/2 AWG):Per Mtrs.,Omega PDX 1.6mm/2mmsq.ø (#14/2 AWG),meter (m),46
-Omega:PDX:1.6/2mm.ø(#14/2 AWG):Per Rolls-75Mtrs.,Omega PDX 1.6mm/2mmsq.ø (#14/2 AWG) 75Mtrs.,Rolls (Rll),2772
-Omega:PDX:2.0/2mm.ø(#12/2 AWG):Per Mtrs.,Omega PDX 2.0mm/3.5mmsq.ø (#12/2 AWG),meter (m),60.5
-Omega:PDX:2.0/2mm.ø(#12/2 AWG):Per Rolls-75Mtrs.,Omega PDX 2.0mm/3.5mmsq.ø (#12/2 AWG) 75 Mts.,Rolls (Rll),3777
-Omega:PDX:2.6/2mm.ø(#10/2 AWG):Per Mtrs.,Omega PDX 2.6mm/5.5mmsq.ø (#10/2 AWG),meter (m),86
-Omega:PDX:2.6/2mm.ø(#10/2 AWG):Per Rolls-75Mtrs.,Omega PDX 2.6mm/5.5mmsq.ø (#10/2 AWG) 75 Mts.,Rolls (Rll),5250
+Omega:PDX:1.6/2mm.ï¿½(#14/2 AWG):Per Mtrs.,Omega PDX 1.6mm/2mmsq.ï¿½ (#14/2 AWG),meter (m),46
+Omega:PDX:1.6/2mm.ï¿½(#14/2 AWG):Per Rolls-75Mtrs.,Omega PDX 1.6mm/2mmsq.ï¿½ (#14/2 AWG) 75Mtrs.,Rolls (Rll),2772
+Omega:PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Mtrs.,Omega PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG),meter (m),60.5
+Omega:PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Rolls-75Mtrs.,Omega PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG) 75 Mts.,Rolls (Rll),3777
+Omega:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Mtrs.,Omega PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG),meter (m),86
+Omega:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Rolls-75Mtrs.,Omega PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG) 75 Mts.,Rolls (Rll),5250
 Omni:Wide Series:Flat Pin Outlet:WWR-200,Omni (FLat Pin) Regular Convenience Outlet 16A WWR-200 WS,each (ea),59.75
 Omni:Extension:Tower Extension:WTE-512,Omni 12-gang Universal Tower Extension Cord with Switch,piece (pc),1199.75
 Omni:Wall Lamp:Modern Accent Wall Lamp:LWLC-15W3C,Omni 15W Circular Wall Light IP65 Tricolor (LWLC-15W3C),Set/s (St),699.75
@@ -3019,16 +3021,16 @@ Panasonic:Timer Switch:TB118NE7,Panasonic Time Switch TB118NE7,each (ea),4000
 Panasonic:Wide Series:Universal Outlet:WEG10919-5,Panasonic Universal Outlet WS WEG10919-5 *Y11,each (ea),84
 Panasonic:Classic:1-Way Switch,Panasonici 1-Way Switch 15A 250V (Classic),each (ea),25
 Panasonic:Classic:1-Way Switch LED,Panasunic 1-Way Switch 15A 250V LED(Classic) WNG 5151-751 *G60,each (ea),135
-Pancake:Copper Tube(Soft Drawn):SD-1271:Per Foot,"Pancake 1/2""Øx0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),65
-Pancake:Copper Tube(Soft Drawn):SD-1271:Per Roll,"Pancake 1/2""Øx0.028""(0.71mm)x50Ft Copper Tube Soft Drawn",Rolls (Rll),4347
-Pancake:Copper Tube(Soft Drawn):SD-1471:Per Foot,"Pancake 1/4""Øx0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),34
-Pancake:Copper Tube(Soft Drawn):SD-1471:Per Roll,"Pancake 1/4""Øx0.028""(0.71mm)x50Ft Copper Tube Soft Drawn",Rolls (Rll),2036
-Pancake:Copper Tube(Soft Drawn):SD-3471:Per Foot,"Pancake 3/4""Øx0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),93.25
-Pancake:Copper Tube(Soft Drawn):SD-3471:Per Roll,"Pancake 3/4""Øx0.028""(0.71mm)x50Ft Copper Tube Soft Drawn",Rolls (Rll),6379
-Pancake:Copper Tube(Soft Drawn):SD-3871:Per Foot,"Pancake 3/8""Øx0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),53
-Pancake:Copper Tube(Soft Drawn):SD-3871:Per Roll,"Pancake 3/8""Øx0.028""(0.71mm)x50Ft Copper Tube Soft Drawn (2.545kg/50feet)",Rolls (Rll),3185.5
-Pancake:Copper Tube(Soft Drawn):SD-5871:Per Foot,"Pancake 5/8""Øx0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),91
-Pancake:Copper Tube(Soft Drawn):SD-5871:Per Roll,"Pancake 5/8""Øx0.028""(0.71mm)x50Ft Copper Tube Soft Drawn",Rolls (Rll),5229
+Pancake:Copper Tube(Soft Drawn):SD-1271:Per Foot,"Pancake 1/2""ï¿½x0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),65
+Pancake:Copper Tube(Soft Drawn):SD-1271:Per Roll,"Pancake 1/2""ï¿½x0.028""(0.71mm)x50Ft Copper Tube Soft Drawn",Rolls (Rll),4347
+Pancake:Copper Tube(Soft Drawn):SD-1471:Per Foot,"Pancake 1/4""ï¿½x0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),34
+Pancake:Copper Tube(Soft Drawn):SD-1471:Per Roll,"Pancake 1/4""ï¿½x0.028""(0.71mm)x50Ft Copper Tube Soft Drawn",Rolls (Rll),2036
+Pancake:Copper Tube(Soft Drawn):SD-3471:Per Foot,"Pancake 3/4""ï¿½x0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),93.25
+Pancake:Copper Tube(Soft Drawn):SD-3471:Per Roll,"Pancake 3/4""ï¿½x0.028""(0.71mm)x50Ft Copper Tube Soft Drawn",Rolls (Rll),6379
+Pancake:Copper Tube(Soft Drawn):SD-3871:Per Foot,"Pancake 3/8""ï¿½x0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),53
+Pancake:Copper Tube(Soft Drawn):SD-3871:Per Roll,"Pancake 3/8""ï¿½x0.028""(0.71mm)x50Ft Copper Tube Soft Drawn (2.545kg/50feet)",Rolls (Rll),3185.5
+Pancake:Copper Tube(Soft Drawn):SD-5871:Per Foot,"Pancake 5/8""ï¿½x0.028""(0.71mm) Copper Tube Soft Drawn",foot (ft),91
+Pancake:Copper Tube(Soft Drawn):SD-5871:Per Roll,"Pancake 5/8""ï¿½x0.028""(0.71mm)x50Ft Copper Tube Soft Drawn",Rolls (Rll),5229
 Koten:Made To Order:PANEL 1 RCBO 30AT SET,"PANEL 1 RCBO 30AT, 3pcs 32 1P, 5pcs 20AT",Set/s (St),24804.8625
 Koten:Made To Order:PANEL 2 RCBO 63AT SET,"PANEL 2 RCBO 63AT, 1pcs 16 1P, 7pcs 20AT",Set/s (St),26250
 Delta:Panel Box:Flush Type TQD 2P(125-200):Flush Type TQD 2P(125-200):Main (TQD 2P) Brs 14x2P Pl...,Panel Box Main 125 TQD Bars 14x2p,each (ea),5650
@@ -3043,12 +3045,12 @@ Koten:Made To Order:28Brs MTS Main (PW-250SP 2Px2),PB250SP 2P/K63N 2P (MTS Type)
 Koten:Made To Order:004,PB600CS 3P/2P Surface Mounted w/ busbar & grounding Nema3R ( size 1350mmx600mmz260mm) 1.4mm....M...,piece (pc),105263.75
 FROM IIEE PRODUCT PRESENTATION:PBE-R KTM-1 2P 8B FLUSH TYPE,PBE-R KTM-1 2P 8B FLUSH TYPE,piece (pc),1950
 Board Outdor:PCB Outdoor 38CVGS016,PCB Outdoor 38CVGS016,each (ea),12236
-PDX:1.6/2mm.ø(#14/2 AWG):Per meter,PDX 1.6mm/2mmsq.ø (#14/2 AWG),meter (m),48
-PDX:1.6/2mm.ø(#14/2 AWG):Per Rolls-75Mtrs.,PDX 1.6mm/2mmsq.ø (#14/2 AWG) 75Mtrs.,Rolls (Rll),3267
-PDX:2.0/2mm.ø(#12/2 AWG):Per meter,PDX 2.0mm/3.5mmsq.ø (#12/2 AWG),meter (m),67
-PDX:2.0/2mm.ø(#12/2 AWG):Per Rolls-75Mtrs.,PDX 2.0mm/3.5mmsq.ø (#12/2 AWG) 75 Mts.,Rolls (Rll),4485
-PDX:2.6/2mm.ø(#10/2 AWG):Per meter,PDX 2.6mm/5.5mmsq.ø (#10/2 AWG),meter (m),89
-PDX:2.6/2mm.ø(#10/2 AWG):Per Rolls-75Mtrs.,PDX 2.6mm/5.5mmsq.ø (#10/2 AWG) 75 Mts.,Rolls (Rll),6207
+PDX:1.6/2mm.ï¿½(#14/2 AWG):Per meter,PDX 1.6mm/2mmsq.ï¿½ (#14/2 AWG),meter (m),48
+PDX:1.6/2mm.ï¿½(#14/2 AWG):Per Rolls-75Mtrs.,PDX 1.6mm/2mmsq.ï¿½ (#14/2 AWG) 75Mtrs.,Rolls (Rll),3267
+PDX:2.0/2mm.ï¿½(#12/2 AWG):Per meter,PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG),meter (m),67
+PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Rolls-75Mtrs.,PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG) 75 Mts.,Rolls (Rll),4485
+PDX:2.6/2mm.ï¿½(#10/2 AWG):Per meter,PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG),meter (m),89
+PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Rolls-75Mtrs.,PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG) 75 Mts.,Rolls (Rll),6207
 Online Lighting:PL-02,Pendant Light Nordic TriColor Black,each (ea),270
 Online Lighting:PL-01,Pendant Light Retro Industrial Metal White,each (ea),353
 Pancake:Copper Tube(Soft Drawn),Per Foot @ 1.3..Per Roll @ 1.15,,
@@ -3120,9 +3122,9 @@ Phelps Dodge:THHN-THWN-2:PD80.0 mm. sq.:Per Mtrs.:80PDTHHN,Phelps Dodge 80.0 mm.
 Phelps Dodge:THHN-THWN-2:PD80.0 mm. sq.:Per Rolls-300Mtrs.:80PDTHHN,Phelps Dodge 80.0 mm. Sq. THHN/THWN-2 C.U. Wire 300Mtrs.,Rolls (Rll),305495.78
 Phelps Dodge:THW:PD80.0 mm. sq.:Per Mtrs.:80PDTHW,Phelps Dodge 80.0 mm. Sq. THW C.U. Wire,meter (m),1062
 Phelps Dodge:THW:PD80.0 mm. sq.:Per Rolls-300Mtrs.:80PDTHW,Phelps Dodge 80.0 mm. Sq. THW C.U. Wire 300Mtrs.,Rolls (Rll),305495.78
-Phelps Dodge:PDX:1.6/2mm.ø(#14/2 AWG):Per Mtrs.,Phelps Dodge PDX 1.6/2mm.ø (#14/2 AWG),meter (m),36
-Phelps Dodge:PDX:2.0/2mm.ø(#12/2 AWG):Per Mtrs.,Phelps Dodge PDX 2.0/2mm.ø (#12/2 AWG),meter (m),68
-Phelps Dodge:PDX:2.6/2mm.ø(#10/2 AWG):Per Mtrs.,Phelps Dodge PDX 2.6/2mm.ø (#10/2 AWG),meter (m),99.25
+Phelps Dodge:PDX:1.6/2mm.ï¿½(#14/2 AWG):Per Mtrs.,Phelps Dodge PDX 1.6/2mm.ï¿½ (#14/2 AWG),meter (m),36
+Phelps Dodge:PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Mtrs.,Phelps Dodge PDX 2.0/2mm.ï¿½ (#12/2 AWG),meter (m),68
+Phelps Dodge:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Mtrs.,Phelps Dodge PDX 2.6/2mm.ï¿½ (#10/2 AWG),meter (m),99.25
 "Hardware:Phenolic Board:1/2""","Phenolic Board 1/2""",,540
 "Phildex:End Bell:EEB 20mm:20mm (1/2"")","Phildex End Bell 20mm (1/2"") **R12",piece (pc),9
 "Phildex:End Bell:EEB 25mm:25mm (3/4"")","Phildex End Bell 25mm (3/4"")) **R25",piece (pc),12
@@ -3158,8 +3160,8 @@ Philflex:CAT6 (305m),"Philflex CAT6 0.65mm (22AWG) Solid Soft Annealed Copper Co
 Philflex:CAT6,"Philflex CAT6 UTP 0.65mm (22AWG) Solid Soft Annealed Copper Conductors, Thermoplastic Insulation",meter (m),27
 Philflex:Co-Axial Cable (for TV):per meter:RG-6 (for TV),PHILFLEX Co-Axial Cable (RG-6),meter (m),20
 Philflex:Co-Axial Cable (for TV):per meter:RG-6 (for TV) 300m,PHILFLEX Co-Axial Cable (RG-6) 300m,Rolls (Rll),3125
-Philflex:PDX:2.0/2mm.ø(#12/2 AWG):Per Roll (3.5),PHILFLEX PDX 2.0mm/3.5mmsq.ø (#12/2 AWG),Rolls (Rll),4756.5
-Philflex:PDX:2.6/2mm.ø(#10/2 AWG):Per Roll,Philflex PDX 2.6mm/5.5mmsq.ø (#10/2 AWG),Rolls (Rll),6897
+Philflex:PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Roll (3.5),PHILFLEX PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG),Rolls (Rll),4756.5
+Philflex:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Roll,Philflex PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG),Rolls (Rll),6897
 Philflex:Royal Cord:Two (2) wires:#08/2,Philflex Royal Cord #08/2,meter (m),283
 Philflex:Royal Cord:Three (3) wires:#08/3,Philflex Royal Cord #08/3,meter (m),393
 Philflex:Royal Cord:Two (2) wires:#10/2,Philflex Royal Cord #10/2,meter (m),189.5
@@ -3221,13 +3223,13 @@ Koten:PVC Clamp:AR-114 (11),"Poly 1-1/4"" (AR-11)  PVC Orange Clamp (AR-11)",eac
 Koten:PVC Clamp:AR-2(14),"Poly 2"" (AR-14)  PVC Orange Clamp (AR-14)",each (ea),21
 Koten:PVC Clamp:AR-34(9),"Poly 38mm(3/4"") PVC Orange Clamp (AR-9)",each (ea),3
 Philflex:THHN:Aluminum:PF AL 100 mm. sq.,Poly ACSR Buckeye#100mm. sq.,,150
-Poly:Flexible Hose:20mm Ø (1/2 Ø):FHP-12100,Poly Flexible Hose 20mm Ø (1/2 Ø) 100Mtrs,Rolls (Rll),680
-Poly:Flexible Hose:20mm Ø (1/2 Ø):FHP-1250,Poly Flexible Hose 20mm Ø (1/2 Ø) 50Mtrs,Rolls (Rll),340
-Poly:Flexible Hose:20mm Ø (1/2 Ø):FHP-12,Poly Flexible Hose 20mm Ø (1/2 Ø)(XP20L),meter (m),8
-Poly:Flexible Hose:25mm Ø (3/4 Ø):FHP-34,Poly Flexible Hose 25mm Ø (3/4 Ø),meter (m),14
-Poly:Flexible Hose:25mm Ø (3/4 Ø):FHP-34100,Poly Flexible Hose 25mm Ø (3/4 Ø) 100Mtrs,Rolls (Rll),1060
-Poly:Flexible Hose:25mm Ø (3/4 Ø):FHP-3450,Poly Flexible Hose 25mm Ø (3/4 Ø) 50Mtrs,Rolls (Rll),530
-Poly:Flexible Hose:32mm Ø (1Ø):FHP-1,Poly Flexible Hose 32mm Ø (1 Ø),meter (m),19
+Poly:Flexible Hose:20mm ï¿½ (1/2 ï¿½):FHP-12100,Poly Flexible Hose 20mm ï¿½ (1/2 ï¿½) 100Mtrs,Rolls (Rll),680
+Poly:Flexible Hose:20mm ï¿½ (1/2 ï¿½):FHP-1250,Poly Flexible Hose 20mm ï¿½ (1/2 ï¿½) 50Mtrs,Rolls (Rll),340
+Poly:Flexible Hose:20mm ï¿½ (1/2 ï¿½):FHP-12,Poly Flexible Hose 20mm ï¿½ (1/2 ï¿½)(XP20L),meter (m),8
+Poly:Flexible Hose:25mm ï¿½ (3/4 ï¿½):FHP-34,Poly Flexible Hose 25mm ï¿½ (3/4 ï¿½),meter (m),14
+Poly:Flexible Hose:25mm ï¿½ (3/4 ï¿½):FHP-34100,Poly Flexible Hose 25mm ï¿½ (3/4 ï¿½) 100Mtrs,Rolls (Rll),1060
+Poly:Flexible Hose:25mm ï¿½ (3/4 ï¿½):FHP-3450,Poly Flexible Hose 25mm ï¿½ (3/4 ï¿½) 50Mtrs,Rolls (Rll),530
+Poly:Flexible Hose:32mm ï¿½ (1ï¿½):FHP-1,Poly Flexible Hose 32mm ï¿½ (1 ï¿½),meter (m),19
 "Poly:HDPE Pipe:per meter:1""","Poly HDPE Pipe 1"" 32mm",meter (m),49
 Poly:HDPE Pipe:per meter:1/2,"Poly HDPE Pipe 1/2"" 20mm",meter (m),32
 Poly:HDPE Pipe:per meter:112,"Poly HDPE Pipe 1-1/2"" 50mm",meter (m),120
@@ -3243,19 +3245,19 @@ Poly:PVC Electrical Pipe (outside):PP50,"Poly Powerline PVC Pipe-Thickwall 50mm(
 Poly:PVC Electrical Pipe (outside):PP63,"Poly Powerline PVC Pipe-Thickwall 63mm(2"") x 3m (PP63)",each (ea),270
 Poly:PVC Electrical Pipe (outside):PP75,"Poly Powerline PVC Pipe-Thickwall 75mm(2-1/2"") x 3m (PP75)",each (ea),450
 Poly:PVC Electrical Pipe (outside):PP90,"Poly Powerline PVC Pipe-Thickwall 90mm(3"") x 3m (PP90)",each (ea),600
-Poly:PVC Adapter:PMA110,"Poly PVC Adapter 110mm Ø (4"" Ø)",each (ea),180
-Poly:PVC Adapter:PMA63,"Poly PVC Adapter 63mm Ø(2""Ø)",each (ea),50
-Poly:PVC Adapter:PMA90,"Poly PVC Adapter 90mm Ø (3"" Ø)",each (ea),131
-Poly:PVC Adapter:PMA32,"Poly PVC Adoptor 32mm Ø (1""Ø)",each (ea),13
-Poly:Electrical Pipe Connector:PPC20,"Poly PVC Connector (20mm) 1/2"" Ø  **R23",each (ea),7.25
-Poly:Electrical Pipe Connector:PPC25,"Poly PVC Connector (25mm) 3/4"" Ø  **R32",each (ea),8.25
-Poly:Flexible Connector:XPC20,"Poly PVC Flexible Connector 1/2"" Ø  (XPC20)  **R05",each (ea),9
-Poly:Flexible Connector:XPC25,"Poly PVC Flexible Connector 3/4"" Ø  **R14",each (ea),10
-Poly:Flexible Coupling:XC20,"Poly PVC Flexible COUPLING 1/2"" Ø (XC20)",each (ea),9
+Poly:PVC Adapter:PMA110,"Poly PVC Adapter 110mm ï¿½ (4"" ï¿½)",each (ea),180
+Poly:PVC Adapter:PMA63,"Poly PVC Adapter 63mm ï¿½(2""ï¿½)",each (ea),50
+Poly:PVC Adapter:PMA90,"Poly PVC Adapter 90mm ï¿½ (3"" ï¿½)",each (ea),131
+Poly:PVC Adapter:PMA32,"Poly PVC Adoptor 32mm ï¿½ (1""ï¿½)",each (ea),13
+Poly:Electrical Pipe Connector:PPC20,"Poly PVC Connector (20mm) 1/2"" ï¿½  **R23",each (ea),7.25
+Poly:Electrical Pipe Connector:PPC25,"Poly PVC Connector (25mm) 3/4"" ï¿½  **R32",each (ea),8.25
+Poly:Flexible Connector:XPC20,"Poly PVC Flexible Connector 1/2"" ï¿½  (XPC20)  **R05",each (ea),9
+Poly:Flexible Connector:XPC25,"Poly PVC Flexible Connector 3/4"" ï¿½  **R14",each (ea),10
+Poly:Flexible Coupling:XC20,"Poly PVC Flexible COUPLING 1/2"" ï¿½ (XC20)",each (ea),9
 Poly:PVC Junction Box:RJBN,Poly PVC Junction Box (RJBN) *D00,each (ea),20
-Poly:PVC Mini Elbow:PES20,"Poly PVC Mini Elbow 20mm Ø (1/2""Ø)",each (ea),8
-Poly:PVC Mini Elbow:PES25,Poly PVC Mini Elbow 3/4mm Ø,each (ea),12
-Poly:PVC Mini Elbow:PES32,"Poly PVC Mini Elbow 32mm Ø (1""Ø)",each (ea),22
+Poly:PVC Mini Elbow:PES20,"Poly PVC Mini Elbow 20mm ï¿½ (1/2""ï¿½)",each (ea),8
+Poly:PVC Mini Elbow:PES25,Poly PVC Mini Elbow 3/4mm ï¿½,each (ea),12
+Poly:PVC Mini Elbow:PES32,"Poly PVC Mini Elbow 32mm ï¿½ (1""ï¿½)",each (ea),22
 Poly:Square Box w/Cover:RLSB,Poly PVC Square Box w/Cover-4/11/16,each (ea),60
 Poly:PVC Utility Box:RUBN,Poly Pvc Utility Box*D00,each (ea),20
 Poly:Vinyl Tape:VT-4W,Poly Vinyl Tape White VT-4W **R60,each (ea),121
@@ -3273,12 +3275,12 @@ UKK Series:UKK125,Power Distribution Block 1-pole 125A (UKK125) *T49,each (ea),5
 UKK Series:UKK160,Power Distribution Block 1-pole 160A (UKK160) *T49,each (ea),590
 UKK Series:UKK250,Power Distribution Block 1-pole 250A (UKK250A) *T47,,1304
 UKK Series:UKK80,Power Distribution Block 1-pole 80A *T48,each (ea),435
-Powerflex:PDX:1.6/2mm.ø(#14/2 AWG):Per Mtrs.,Powerflex PDX 1.6mm/2mmsq.ø (#14/2 AWG),meter (m),46
-Powerflex:PDX:1.6/2mm.ø(#14/2 AWG):Per Rolls-75Mtrs.,Powerflex PDX 1.6mm/2mmsq.ø (#14/2 AWG) 75 Mts.,Rolls (Rll),2772
-Powerflex:PDX:2.0/2mm.ø(#12/2 AWG):Per Mtrs.,Powerflex PDX 2.0mm/3.5mmsq.ø (#12/2 AWG),meter (m),60.5
-Powerflex:PDX:2.0/2mm.ø(#12/2 AWG):Per Rolls-75Mtrs,Powerflex PDX 2.0mm/3.5mmsq.ø (#12/2 AWG) 75 Mts.,Rolls (Rll),3777
-Powerflex:PDX:2.6/2mm.ø(#10/2 AWG):Per Mtrs.,Powerflex PDX 2.6mm/5.5mmsq.ø (#10/2 AWG),meter (m),86
-Powerflex:PDX:2.6/2mm.ø(#10/2 AWG):Per Rolls-75Mtrs.,Powerflex PDX 2.6mm/5.5mmsq.ø (#10/2 AWG) 75 Mts.,Rolls (Rll),5228
+Powerflex:PDX:1.6/2mm.ï¿½(#14/2 AWG):Per Mtrs.,Powerflex PDX 1.6mm/2mmsq.ï¿½ (#14/2 AWG),meter (m),46
+Powerflex:PDX:1.6/2mm.ï¿½(#14/2 AWG):Per Rolls-75Mtrs.,Powerflex PDX 1.6mm/2mmsq.ï¿½ (#14/2 AWG) 75 Mts.,Rolls (Rll),2772
+Powerflex:PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Mtrs.,Powerflex PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG),meter (m),60.5
+Powerflex:PDX:2.0/2mm.ï¿½(#12/2 AWG):Per Rolls-75Mtrs,Powerflex PDX 2.0mm/3.5mmsq.ï¿½ (#12/2 AWG) 75 Mts.,Rolls (Rll),3777
+Powerflex:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Mtrs.,Powerflex PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG),meter (m),86
+Powerflex:PDX:2.6/2mm.ï¿½(#10/2 AWG):Per Rolls-75Mtrs.,Powerflex PDX 2.6mm/5.5mmsq.ï¿½ (#10/2 AWG) 75 Mts.,Rolls (Rll),5228
 Neltex (Power Line):PVC Junction Box:Powerguard Junction Box,Powerguard Junction Box,each (ea),35
 pre payment orders,pre payment orders,unit (unit),0
 "Epson SC T313N:Printing ""A3""","Printing ""A3""",each (ea),15
@@ -3288,26 +3290,26 @@ Ecnko:JS14P,Programable Time Delay Relay AC 220V Range 1-99s DPDT 2NO 2NC (JS14P
 Solar Parts:External Protective Device:Programable Timer 30A,Programable Timer 30A,each (ea),950
 Solar Parts:Inverter:Hybrid:MPS-5K-48V,PS-PV1800-48V4000W,each (ea),41250
 Shop OL:Pump,Pump,,42272.5
-Poly:PVC Adapter:PMA25,"PVC Adapter 25mm Ø (3/4""Ø)",each (ea),8.25
-Poly:PVC Adapter:PMA40,"PVC Adapter 40mm Ø (1-1/4""Ø) **R33",each (ea),19
-Poly:PVC Adapter:PMA50,"PVC Adapter 50mm Ø (1-1/2""Ø)",each (ea),27
-Poly:PVC Adapter:PMA75,"PVC Adapter 75mm Ø (2-1/2""Ø)",each (ea),105
-Poly:PVC Adapter W/Lock Nut:PMAL20,"PVC Adapter W/ Lock Nut 20mm Ø(1/2""Ø) **R04",each (ea),9.5
-Poly:PVC Adapter W/Lock Nut:PMAL25,"PVC Adapter W/ Lock Nut 25mm Ø(3/4""Ø)",each (ea),14
-Poly:PVC Adapter W/Lock Nut:PMAL32,"PVC Adapter W/ Lock Nut 32mm Ø(1""Ø)",each (ea),18
-Poly:PVC Adapter W/Lock Nut:PMAL50,"PVC Adapter W/ Lock Nut 50mm Ø(1-1/2""Ø)",each (ea),30
-Poly:PVC Adapter W/Lock Nut:PMAL40,"PVC Adaptor W/ Lock Nut 40mm Ø(1-1/4""Ø)",each (ea),22.5
-Poly:PVC Adapter:PMA20,"PVC Adoptor 20mm Ø (1/2""Ø)",each (ea),7.25
-Poly:PVC Adapter W/Lock Nut:PMAL63,"PVC Adoptor W/ Lock Nut 63mm Ø(2""Ø)",each (ea),44
-Poly:PVC Long Elbow:PE110,"PVC Long Elbow 110mm Ø (4""Ø)",each (ea),600
-Poly:PVC Long Elbow:PE20,"PVC Long Elbow 20mm Ø (1/2""Ø)",each (ea),15
-Poly:PVC Long Elbow:PE25,"PVC Long Elbow 25mm Ø (3/4""Ø)",each (ea),16
-Poly:PVC Long Elbow:PE32,"PVC Long Elbow 32mm Ø (1""Ø)",each (ea),36
-Poly:PVC Long Elbow:PE40,"PVC Long Elbow 40mm Ø (1-1/4""Ø)",each (ea),52
-Poly:PVC Long Elbow:PE50,"PVC Long Elbow 50mm Ø (1-1/2""Ø)",each (ea),52
-Poly:PVC Long Elbow:PE63,"PVC Long Elbow 63mm Ø (2""Ø)",each (ea),88
-Poly:PVC Long Elbow:PE75,"PVC Long Elbow 75mm Ø 2-1/2""Ø)",each (ea),180
-Poly:PVC Long Elbow:PE90,"PVC Long Elbow 90mm Ø (3""Ø)",each (ea),400
+Poly:PVC Adapter:PMA25,"PVC Adapter 25mm ï¿½ (3/4""ï¿½)",each (ea),8.25
+Poly:PVC Adapter:PMA40,"PVC Adapter 40mm ï¿½ (1-1/4""ï¿½) **R33",each (ea),19
+Poly:PVC Adapter:PMA50,"PVC Adapter 50mm ï¿½ (1-1/2""ï¿½)",each (ea),27
+Poly:PVC Adapter:PMA75,"PVC Adapter 75mm ï¿½ (2-1/2""ï¿½)",each (ea),105
+Poly:PVC Adapter W/Lock Nut:PMAL20,"PVC Adapter W/ Lock Nut 20mm ï¿½(1/2""ï¿½) **R04",each (ea),9.5
+Poly:PVC Adapter W/Lock Nut:PMAL25,"PVC Adapter W/ Lock Nut 25mm ï¿½(3/4""ï¿½)",each (ea),14
+Poly:PVC Adapter W/Lock Nut:PMAL32,"PVC Adapter W/ Lock Nut 32mm ï¿½(1""ï¿½)",each (ea),18
+Poly:PVC Adapter W/Lock Nut:PMAL50,"PVC Adapter W/ Lock Nut 50mm ï¿½(1-1/2""ï¿½)",each (ea),30
+Poly:PVC Adapter W/Lock Nut:PMAL40,"PVC Adaptor W/ Lock Nut 40mm ï¿½(1-1/4""ï¿½)",each (ea),22.5
+Poly:PVC Adapter:PMA20,"PVC Adoptor 20mm ï¿½ (1/2""ï¿½)",each (ea),7.25
+Poly:PVC Adapter W/Lock Nut:PMAL63,"PVC Adoptor W/ Lock Nut 63mm ï¿½(2""ï¿½)",each (ea),44
+Poly:PVC Long Elbow:PE110,"PVC Long Elbow 110mm ï¿½ (4""ï¿½)",each (ea),600
+Poly:PVC Long Elbow:PE20,"PVC Long Elbow 20mm ï¿½ (1/2""ï¿½)",each (ea),15
+Poly:PVC Long Elbow:PE25,"PVC Long Elbow 25mm ï¿½ (3/4""ï¿½)",each (ea),16
+Poly:PVC Long Elbow:PE32,"PVC Long Elbow 32mm ï¿½ (1""ï¿½)",each (ea),36
+Poly:PVC Long Elbow:PE40,"PVC Long Elbow 40mm ï¿½ (1-1/4""ï¿½)",each (ea),52
+Poly:PVC Long Elbow:PE50,"PVC Long Elbow 50mm ï¿½ (1-1/2""ï¿½)",each (ea),52
+Poly:PVC Long Elbow:PE63,"PVC Long Elbow 63mm ï¿½ (2""ï¿½)",each (ea),88
+Poly:PVC Long Elbow:PE75,"PVC Long Elbow 75mm ï¿½ 2-1/2""ï¿½)",each (ea),180
+Poly:PVC Long Elbow:PE90,"PVC Long Elbow 90mm ï¿½ (3""ï¿½)",each (ea),400
 Plumbing:Blue pipe:25mmx3m,"PVC pipe Water S8 25mmx3m w/ Hub (blue pipe 3/4"")",piece (pc),106.25
 Plumbing:Blue pipe:32mmx3m,"PVC pipe Water S8 32mmx3m w/ Hub (blue pipe 1"")",piece (pc),153
 Koten:Circuit Breakers:Industrial Circuit Breakers:PW-100SP 2P,"PW-100SP 100AF 2P 220V@50KA, 380V@30KA, 440V@25KA, 600V@15A",,
@@ -3521,45 +3523,45 @@ Royu:Classic Series:Telephone Outlet:WH211,Royu WH 1-Gang Tel. Modular Jack (WH2
 "Plumbing:Waterline Pipe (PPR) & Fittings:PPR Royu:PN16 Cold Water Pipe:PN16x25 (3/4"")","Royu: Cold Water Pipe: (3/4""): PN16 25mmx2.8mmx4m: RPP16X25",each (ea),265
 "Plumbing:Waterline Pipe (PPR) & Fittings:PPR Royu:PN20 Hot and Cold Water Pipe:PN20x20 (1/2"")","Royu: Hot and Cold Water Pipe: (1/2""): PN20 20mmx2.8mmx4m: RPP20X20",each (ea),215
 "Plumbing:Waterline Pipe (PPR) & Fittings:PPR Royu:PN20 Hot and Cold Water Pipe:PN20x25 (3/4"")","Royu: Hot and Cold Water Pipe: (3/4""): PN20 25mmx3.5mmx4m: RPP20X25",each (ea),325
-RSC Conduit:Locknut:RCL-34,"RSC Conduit  Lock Nut 20mm Ø (3/4""Ø) *T36",each (ea),6
-RSC Conduit:Locknut:RCL-114,"RSC Conduit  Lock Nut 32mm Ø (1-14""Ø) *T38",each (ea),9
-RSC Conduit:Locknut:RCL-112,"RSC Conduit  Lock Nut 40mm Ø (1-1/2""Ø) *T39",each (ea),11
-RSC Conduit:Locknut:RCL-2,"RSC Conduit  Lock Nut 50mm Ø (2""Ø) *T40",each (ea),16
-RSC Conduit:Bushing:RCB-3,"RSC Conduit Bushing  (3""Ø)",each (ea),50
-RSC Conduit:Bushing:RCB-4,"RSC Conduit Bushing  (4""Ø)",each (ea),60
-RSC Conduit:Bushing:RCB-12,"RSC Conduit Bushing 15mm Ø (1/2""Ø) *T68",each (ea),8
-RSC Conduit:Bushing:RCB-34,"RSC Conduit Bushing 20mm Ø (3/4""Ø) *T26",each (ea),10
-RSC Conduit:Bushing:RCB-1,"RSC Conduit Bushing 25mm Ø (1""Ø) *T27",each (ea),14
-RSC Conduit:Bushing:RCB-114,"RSC Conduit Bushing 32mm Ø (1-1/4""Ø) *T28",each (ea),14
-RSC Conduit:Bushing:RCB-112,"RSC Conduit Bushing 40mm Ø (1-1/2""Ø) *T29",each (ea),18
-RSC Conduit:Bushing:RCB-212,"RSC Conduit Bushing 40mm Ø (2-1/2""Ø)  *T56",each (ea),40
-RSC Conduit:Bushing:RCB-2,"RSC Conduit Bushing 50mm Ø (2""Ø)",each (ea),25
-RSC Conduit:Locknut:RCL-3,"RSC Conduit Lock Nut  (3""Ø)",each (ea),24
-RSC Conduit:Locknut:RCL-4,"RSC Conduit Lock Nut  (4""Ø)",each (ea),36
-RSC Conduit:Locknut:RCL-212,"RSC Conduit Lock Nut 63mm Ø (2-1/2""Ø) *T57",each (ea),25
-RSC Conduit:Locknut:RCL-1,"RSC Conduit Locknut 25mm Ø (1""Ø) *T37",each (ea),8
-RSC Condulet:L-Back:LB-3,"RSC Condulet L-Back (3""Ø)",each (ea),550
-RSC Condulet:L-Back:LB-12,"RSC Condulet L-Back 15mm Ø (1/2""Ø)",each (ea),45
-RSC Condulet:L-Back:LB-34,"RSC Condulet L-Back 20mm (3/4""Ø)",each (ea),53
-RSC Condulet:L-Back:LB-1,"RSC Condulet L-Back 25mm Ø (1""Ø)",each (ea),81
-RSC Condulet:L-Back:LB-114,"RSC Condulet L-Back 32mm Ø (1-1/4""Ø)",each (ea),149
-RSC Condulet:L-Back:LB-112,"RSC Condulet L-Back 40mm Ø (1-1/2""Ø)",each (ea),180
-RSC Condulet:L-Back:LB-2,"RSC Condulet L-Back 50mm Ø (2""Ø)",each (ea),238
-RSC Condulet:L-Back:LB-212,"RSC Condulet L-Back 63mm Ø (2-1/2""Ø)",each (ea),350
-RSC Condulet:L-Left:LL-12,"RSC Condulet L-Left 15mm Ø (1/2""Ø)",each (ea),65
-RSC Condulet:L-Left:LL-34,"RSC Condulet L-Left 20mm Ø (3/4""Ø)",each (ea),180
-RSC Condulet:L-Left:LL-1,"RSC Condulet L-Left 25mm Ø (1""Ø)",each (ea),240
-RSC Condulet:L-Left:LL-114,"RSC Condulet L-Left 32mm Ø (1-1/4""Ø)",each (ea),460
-RSC Condulet:L-Left:LL-112,"RSC Condulet L-Left 50mm Ø (1-1/2""Ø)",each (ea),465
-RSC Condulet:L-Left:LL-2,"RSC Condulet L-Left 50mm Ø (2""Ø)",each (ea),850
-RSC Condulet:L-Left:LL-3,"RSC Condulet L-left 80mm Ø (3""Ø)",each (ea),2400
-RSC Condulet:L-Right:LR-12,"RSC Condulet L-Right 15mm Ø (1/2""Ø)",each (ea),162
-RSC Condulet:L-Right:LR-34,"RSC Condulet L-Right 20mm Ø (3/4""Ø)",each (ea),180
-RSC Condulet:L-Right:LR-1,"RSC Condulet L-Right 25mm Ø (1""Ø)",each (ea),240
-RSC Condulet:L-Right:LR-114,"RSC Condulet L-Right 32mm Ø (1-1/4""Ø)",each (ea),460
-RSC Condulet:L-Right:LR-112,"RSC Condulet L-Right 40mm Ø (1-1/2""Ø)",each (ea),465
-RSC Condulet:L-Right:LR-2,"RSC Condulet L-Right 50mm Ø (2""Ø)",each (ea),850
-RSC Condulet:L-Right:LR-3,"RSC Condulet L-Right 80mm Ø (3""Ø)",each (ea),2400
+RSC Conduit:Locknut:RCL-34,"RSC Conduit  Lock Nut 20mm ï¿½ (3/4""ï¿½) *T36",each (ea),6
+RSC Conduit:Locknut:RCL-114,"RSC Conduit  Lock Nut 32mm ï¿½ (1-14""ï¿½) *T38",each (ea),9
+RSC Conduit:Locknut:RCL-112,"RSC Conduit  Lock Nut 40mm ï¿½ (1-1/2""ï¿½) *T39",each (ea),11
+RSC Conduit:Locknut:RCL-2,"RSC Conduit  Lock Nut 50mm ï¿½ (2""ï¿½) *T40",each (ea),16
+RSC Conduit:Bushing:RCB-3,"RSC Conduit Bushing  (3""ï¿½)",each (ea),50
+RSC Conduit:Bushing:RCB-4,"RSC Conduit Bushing  (4""ï¿½)",each (ea),60
+RSC Conduit:Bushing:RCB-12,"RSC Conduit Bushing 15mm ï¿½ (1/2""ï¿½) *T68",each (ea),8
+RSC Conduit:Bushing:RCB-34,"RSC Conduit Bushing 20mm ï¿½ (3/4""ï¿½) *T26",each (ea),10
+RSC Conduit:Bushing:RCB-1,"RSC Conduit Bushing 25mm ï¿½ (1""ï¿½) *T27",each (ea),14
+RSC Conduit:Bushing:RCB-114,"RSC Conduit Bushing 32mm ï¿½ (1-1/4""ï¿½) *T28",each (ea),14
+RSC Conduit:Bushing:RCB-112,"RSC Conduit Bushing 40mm ï¿½ (1-1/2""ï¿½) *T29",each (ea),18
+RSC Conduit:Bushing:RCB-212,"RSC Conduit Bushing 40mm ï¿½ (2-1/2""ï¿½)  *T56",each (ea),40
+RSC Conduit:Bushing:RCB-2,"RSC Conduit Bushing 50mm ï¿½ (2""ï¿½)",each (ea),25
+RSC Conduit:Locknut:RCL-3,"RSC Conduit Lock Nut  (3""ï¿½)",each (ea),24
+RSC Conduit:Locknut:RCL-4,"RSC Conduit Lock Nut  (4""ï¿½)",each (ea),36
+RSC Conduit:Locknut:RCL-212,"RSC Conduit Lock Nut 63mm ï¿½ (2-1/2""ï¿½) *T57",each (ea),25
+RSC Conduit:Locknut:RCL-1,"RSC Conduit Locknut 25mm ï¿½ (1""ï¿½) *T37",each (ea),8
+RSC Condulet:L-Back:LB-3,"RSC Condulet L-Back (3""ï¿½)",each (ea),550
+RSC Condulet:L-Back:LB-12,"RSC Condulet L-Back 15mm ï¿½ (1/2""ï¿½)",each (ea),45
+RSC Condulet:L-Back:LB-34,"RSC Condulet L-Back 20mm (3/4""ï¿½)",each (ea),53
+RSC Condulet:L-Back:LB-1,"RSC Condulet L-Back 25mm ï¿½ (1""ï¿½)",each (ea),81
+RSC Condulet:L-Back:LB-114,"RSC Condulet L-Back 32mm ï¿½ (1-1/4""ï¿½)",each (ea),149
+RSC Condulet:L-Back:LB-112,"RSC Condulet L-Back 40mm ï¿½ (1-1/2""ï¿½)",each (ea),180
+RSC Condulet:L-Back:LB-2,"RSC Condulet L-Back 50mm ï¿½ (2""ï¿½)",each (ea),238
+RSC Condulet:L-Back:LB-212,"RSC Condulet L-Back 63mm ï¿½ (2-1/2""ï¿½)",each (ea),350
+RSC Condulet:L-Left:LL-12,"RSC Condulet L-Left 15mm ï¿½ (1/2""ï¿½)",each (ea),65
+RSC Condulet:L-Left:LL-34,"RSC Condulet L-Left 20mm ï¿½ (3/4""ï¿½)",each (ea),180
+RSC Condulet:L-Left:LL-1,"RSC Condulet L-Left 25mm ï¿½ (1""ï¿½)",each (ea),240
+RSC Condulet:L-Left:LL-114,"RSC Condulet L-Left 32mm ï¿½ (1-1/4""ï¿½)",each (ea),460
+RSC Condulet:L-Left:LL-112,"RSC Condulet L-Left 50mm ï¿½ (1-1/2""ï¿½)",each (ea),465
+RSC Condulet:L-Left:LL-2,"RSC Condulet L-Left 50mm ï¿½ (2""ï¿½)",each (ea),850
+RSC Condulet:L-Left:LL-3,"RSC Condulet L-left 80mm ï¿½ (3""ï¿½)",each (ea),2400
+RSC Condulet:L-Right:LR-12,"RSC Condulet L-Right 15mm ï¿½ (1/2""ï¿½)",each (ea),162
+RSC Condulet:L-Right:LR-34,"RSC Condulet L-Right 20mm ï¿½ (3/4""ï¿½)",each (ea),180
+RSC Condulet:L-Right:LR-1,"RSC Condulet L-Right 25mm ï¿½ (1""ï¿½)",each (ea),240
+RSC Condulet:L-Right:LR-114,"RSC Condulet L-Right 32mm ï¿½ (1-1/4""ï¿½)",each (ea),460
+RSC Condulet:L-Right:LR-112,"RSC Condulet L-Right 40mm ï¿½ (1-1/2""ï¿½)",each (ea),465
+RSC Condulet:L-Right:LR-2,"RSC Condulet L-Right 50mm ï¿½ (2""ï¿½)",each (ea),850
+RSC Condulet:L-Right:LR-3,"RSC Condulet L-Right 80mm ï¿½ (3""ï¿½)",each (ea),2400
 RSC Coupling:RC-1,"RSC Coupling 1"" *B13",each (ea),34
 RSC Coupling:RC-112,"RSC Coupling 1-1/2"" *B31",each (ea),56
 RSC Coupling:RC-114,RSC Coupling 1-1/4 *B22,each (ea),41
@@ -3579,7 +3581,7 @@ RSC Long Elbow:RLE-3,"RSC Long Elbow 3"" REF",each (ea),728
 RSC Long Elbow:RLE-34,"RSC Long Elbow 3/4""",each (ea),38
 RSC Long Elbow:RLE-4,"RSC Long Elbow 4"" REF",each (ea),2341
 Surefit:Straight Connector:SC-12,"RSC Straight Connector 1/2"" *V73",each (ea),15
-RSC Conduit:Locknut:RCL-12,"RSC/EMT Conduit  Lock Nut 15mm Ø (1/2""Ø) *T28",each (ea),3
+RSC Conduit:Locknut:RCL-12,"RSC/EMT Conduit  Lock Nut 15mm ï¿½ (1/2""ï¿½) *T28",each (ea),3
 RSC Conduit Pipe:RCP-1,"RSC/IMC Conduit Pipe 1"" 25mm",each (ea),575
 RSC Conduit Pipe:RCP-12,"RSC/IMC Conduit Pipe 1/2"" 15mmdia",each (ea),268
 RSC Conduit Pipe:RCP-112,"RSC/IMC Conduit Pipe 1-1/2"" 40mm",each (ea),918
@@ -3600,12 +3602,12 @@ Royu:Mini Safety Breaker:With Cover & Outlet:Din Rail:RMB32C/O,Ruyo Mini Safety 
 Royu:Classic Series:Universal Outlet:RCO1,Ruyo Universal Outlet 10A/16A 250V Classic *G7,each (ea),49
 Royu:Classic Series:Universal Outlet:RCO6,Ruyo Universal Outlet 16A 250V RCO6 Classic *G9..,each (ea),45
 Fuse Cut Out 27KV:S&C:27KV,S&C Fuse-Type XS Overhead-Pole-Top Style 27KV BIL 100Amps RMS Assym. Interupter 16000 Amp.,Set/s (St),9100
-Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-12,"Sadle Metal Clamp 2-holes 15mm Ø (1/2""Ø)",each (ea),5.75
-Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-1,"Sadle Metal Clamp 2-holes 25mm Ø (1""Ø)",each (ea),10
-Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-34,"Sadle Metal Clamp 2-holes 25mm Ø (3/4""Ø)",each (ea),7
-Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-114,"Sadle Metal Clamp 2-holes 32mm Ø (1-1/4""Ø)",each (ea),20
-Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-112,"Sadle Metal Clamp 2-holes 40mm Ø (1-1/2""Ø)",each (ea),24
-Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-2,"Sadle Metal Clamp 2-holes 63mm Ø (2""Ø)",each (ea),32
+Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-12,"Sadle Metal Clamp 2-holes 15mm ï¿½ (1/2""ï¿½)",each (ea),5.75
+Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-1,"Sadle Metal Clamp 2-holes 25mm ï¿½ (1""ï¿½)",each (ea),10
+Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-34,"Sadle Metal Clamp 2-holes 25mm ï¿½ (3/4""ï¿½)",each (ea),7
+Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-114,"Sadle Metal Clamp 2-holes 32mm ï¿½ (1-1/4""ï¿½)",each (ea),20
+Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-112,"Sadle Metal Clamp 2-holes 40mm ï¿½ (1-1/2""ï¿½)",each (ea),24
+Surefit:Sadle Clamp:Metal Clamp-2Nail:MC-2,"Sadle Metal Clamp 2-holes 63mm ï¿½ (2""ï¿½)",each (ea),32
 Submeter:Safari:KW-HR Meter-Analogue,Safari Kw-Hr Meter-Analogue,each (ea),550
 Submeter:Safari:Safari Kw-Hr Meter-Digital,Safari Kw-Hr Meter-Digital,each (ea),750
 Start Capacitor:Samy Xing:600mfd,Samy Xing starting capacitor 600uf,each (ea),1000
@@ -3685,7 +3687,7 @@ Solderless Connector:Single Bolt:SC-000 (80mm.sq.):B-B BS-27 AWG 3/0,Solderless 
 Solderless Terminal Lug:SA-25,Solderless Terminal Lug 10-12AWG (3.5-5.5mmsq) SA-25 *T25,each (ea),35
 Solderless Terminal Lug:SA-35,Solderless Terminal Lug 6AWG (14mmsq) SA-35 *T24,each (ea),50
 Solderless Terminal Lug:SA-125,Solderless Terminal Lug AWG 1/0 (50mmsq) SA-125 *T22,each (ea),217
-Solderless Terminal Lug:SA-70,Solderless Terminal Lug AWG 2 (30mmsq) SA-75/ SA-70*T23,each (ea),80
+Solderless Terminal Lug:SA-70,Solderless Terminal Lug AWG 2 (30mmsq) SA-75/ SA-70*T23,each (ea),111
 Solderless Terminal Lug:SA-175,Solderless Terminal Lug SA-175 *T21,each (ea),273
 Solis:Grid Tie Inverter:Solis-5KW,Solis 5000W Single MPPT 90V-520V,each (ea),18750
 Solis:Grid Tie Inverter:Solis-6KWp,Solis 6000W Single MPPT 90V-520V,Set/s (St),38210.2
@@ -3866,8 +3868,8 @@ Metal Cable Tie:MCT-4.6*200,"Stainless Steel 304 Metal Cable Tie 7.9""/4.6*200mm
 Metal Cable Tie:MCT-4.6* 300,"Stainless Steel 304 Metal Cable Tie 7.9""/4.6*300mm *G62",each (ea),20
 Stainless Texscrew:212,"Stainless Texscrew 2 1/2""",piece (pc),5
 Strip Light LED  WaterProof:Standard Control,Standard,,0
-Standflex:Flexible Hose:50mm Ø (1-1/2Ø):FHS-1141,Standflex Flexible Hose 1-1/4Ø,meter (m),36
-Standflex:Flexible Hose:50mm Ø (1-1/2Ø):FHS-11450,Standflex Flexible Hose 1-1/4Ø  50Mtrs.,Rolls (Rll),1782
+Standflex:Flexible Hose:50mm ï¿½ (1-1/2ï¿½):FHS-1141,Standflex Flexible Hose 1-1/4ï¿½,meter (m),36
+Standflex:Flexible Hose:50mm ï¿½ (1-1/2ï¿½):FHS-11450,Standflex Flexible Hose 1-1/4ï¿½  50Mtrs.,Rolls (Rll),1782
 Chint:Automatic Voltage Regulator:AVR Single Phase (Stavol):10KVA,Stavol AVR 10000 Watts with Time delay,each (ea),23000
 Chint:Automatic Voltage Regulator:AVR Single Phase (Stavol):30KVA,"Stavol AVR 30,000 Watts with Time delay",each (ea),75000
 Thermostat Control:STC-1000,STC100 AC 220V Digital Temperature Controller Hygometer Thermostat Control Aquarium Sensor with ...,each (ea),500
@@ -3887,18 +3889,18 @@ Solar Parts:External Protective Device:DC SPD 2Pole-1000V,Suntree DC SPD 1000V,e
 Solar Parts:External Protective Device:DC SPD 2Pole-500V,Suntree DC SPD 2Pole 600V,each (ea),1260
 Supco:Delay On Make Timer,Supco Delay On Make Timer 24V-240Vac *T87,each (ea),1000
 Surefit:Metal Clamp-1Nail:DUP MC1-114,Surefit/Delta Metal Clamp 1-hole,each (ea),24
-Surefit:Metal Clamp-1Nail:MC1-12,"Surefit/Delta Metal Clamp 1-holes 15mm Ø (1/2""Ø)",each (ea),7
-Surefit:Metal Clamp-1Nail:MC1-34,"Surefit/Delta Metal Clamp 1-holes 20mm Ø (3/4""Ø) *B61",each (ea),5
-Surefit:Metal Clamp-1Nail:MC1-100,"Surefit/Delta Metal Clamp 1-holes 25mm Ø (1""Ø)",each (ea),12
-Surefit:Metal Clamp-2Nail:MC-12,"Surefit/Delta Metal Clamp 2-holes 15mm Ø (1/2""Ø) *B02",each (ea),8.5
-Surefit:Metal Clamp-2Nail:MC-34,"Surefit/Delta Metal Clamp 2-holes 20mm Ø (3/4""Ø) *B11",each (ea),9.5
-Surefit:Metal Clamp-2Nail:MC-100,"Surefit/Delta Metal Clamp 2-holes 25mm Ø (1""Ø) *B20",each (ea),10.5
-Surefit:Metal Clamp-2Nail:MC-114,"Surefit/Delta Metal Clamp 2-holes 32mm Ø (1-1/4""Ø) *B29",each (ea),20
-Surefit:Metal Clamp-2Nail:MC-112,"Surefit/Delta Metal Clamp 2-holes 40mm Ø (1-1/2""Ø) *B38",each (ea),25
-Surefit:Metal Clamp-2Nail:MC-2,"Surefit/Delta Metal Clamp 2-holes 50mm Ø (2""Ø) *B47",each (ea),36
-Surefit:Metal Clamp-2Nail:MC-212,"Surefit/Delta Metal Clamp 2-holes 63mm Ø (2-1/2""Ø)",each (ea),37
-Surefit:Metal Clamp-2Nail:MC-3,"Surefit/Delta Metal Clamp 2-holes 80mm Ø (3""Ø) *B79",each (ea),65
-Surefit:Metal Clamp-2Nail:MC-4,"Surefit/Delta Metal Clamp 2-holes 80mm Ø (4""Ø) *B79",each (ea),110
+Surefit:Metal Clamp-1Nail:MC1-12,"Surefit/Delta Metal Clamp 1-holes 15mm ï¿½ (1/2""ï¿½)",each (ea),7
+Surefit:Metal Clamp-1Nail:MC1-34,"Surefit/Delta Metal Clamp 1-holes 20mm ï¿½ (3/4""ï¿½) *B61",each (ea),5
+Surefit:Metal Clamp-1Nail:MC1-100,"Surefit/Delta Metal Clamp 1-holes 25mm ï¿½ (1""ï¿½)",each (ea),12
+Surefit:Metal Clamp-2Nail:MC-12,"Surefit/Delta Metal Clamp 2-holes 15mm ï¿½ (1/2""ï¿½) *B02",each (ea),8.5
+Surefit:Metal Clamp-2Nail:MC-34,"Surefit/Delta Metal Clamp 2-holes 20mm ï¿½ (3/4""ï¿½) *B11",each (ea),9.5
+Surefit:Metal Clamp-2Nail:MC-100,"Surefit/Delta Metal Clamp 2-holes 25mm ï¿½ (1""ï¿½) *B20",each (ea),10.5
+Surefit:Metal Clamp-2Nail:MC-114,"Surefit/Delta Metal Clamp 2-holes 32mm ï¿½ (1-1/4""ï¿½) *B29",each (ea),20
+Surefit:Metal Clamp-2Nail:MC-112,"Surefit/Delta Metal Clamp 2-holes 40mm ï¿½ (1-1/2""ï¿½) *B38",each (ea),25
+Surefit:Metal Clamp-2Nail:MC-2,"Surefit/Delta Metal Clamp 2-holes 50mm ï¿½ (2""ï¿½) *B47",each (ea),36
+Surefit:Metal Clamp-2Nail:MC-212,"Surefit/Delta Metal Clamp 2-holes 63mm ï¿½ (2-1/2""ï¿½)",each (ea),37
+Surefit:Metal Clamp-2Nail:MC-3,"Surefit/Delta Metal Clamp 2-holes 80mm ï¿½ (3""ï¿½) *B79",each (ea),65
+Surefit:Metal Clamp-2Nail:MC-4,"Surefit/Delta Metal Clamp 2-holes 80mm ï¿½ (4""ï¿½) *B79",each (ea),110
 Swan:Siamese Cable:RG-6-W/#18:Per Meter,Swan Siamese Cable RG-6 + #18AWG,meter (m),15
 Swan:Siamese Cable:RG-6-W/#18:Per Roll,Swan Siamese Cable RG-6 + #18AWG,Rolls (Rll),4000
 Swan:Telephone Wire:Per Mtr.,Swan Telephone (Jacketed) Wire #22/4C,meter (m),7
@@ -3959,12 +3961,12 @@ TYY Conventional Fire Alarm:Fire Alarm Control Panel:8 Zone,"TYY Fire Alarm Cont
 TYY Conventional Fire Alarm:Heat Detector,TYY Fire Alarm Heat Detector YDD-S02A,each (ea),585
 TYY Conventional Fire Alarm:Manual Call Point,TYY Manual Call Point  YM-P01,each (ea),1215
 TYY Conventional Fire Alarm:Smoke Detector,TYY Photoelectric Smoke Detector YDS-S01 / YDS-S02 (2Wires),each (ea),792
-PVC Short Elbow:PSE-12,"Unidex/Royu PVC Short Elbow 20mm Ø (1/2""Ø)",each (ea),6
-PVC Short Elbow:PSE-34,"Unidex/Royu PVC Short Elbow 25mm Ø (3/4""Ø)",each (ea),9
-PVC Short Elbow:PSE-1,"Unidex/Royu PVC Short Elbow 32mm Ø (1""Ø)",each (ea),12
-PVC Short Elbow:PSE-114,"Unidex/Royu PVC Short Elbow 40mm Ø (1-1/4""Ø)",each (ea),28
-PVC Short Elbow:PSE-112,"Unidex/Royu PVC Short Elbow 50mm Ø (1-1/2""Ø)",each (ea),40
-PVC Short Elbow:PSE-2,"Unidex/Royu PVC Short Elbow 63mm Ø (2""Ø) *R54",each (ea),55
+PVC Short Elbow:PSE-12,"Unidex/Royu PVC Short Elbow 20mm ï¿½ (1/2""ï¿½)",each (ea),6
+PVC Short Elbow:PSE-34,"Unidex/Royu PVC Short Elbow 25mm ï¿½ (3/4""ï¿½)",each (ea),9
+PVC Short Elbow:PSE-1,"Unidex/Royu PVC Short Elbow 32mm ï¿½ (1""ï¿½)",each (ea),12
+PVC Short Elbow:PSE-114,"Unidex/Royu PVC Short Elbow 40mm ï¿½ (1-1/4""ï¿½)",each (ea),28
+PVC Short Elbow:PSE-112,"Unidex/Royu PVC Short Elbow 50mm ï¿½ (1-1/2""ï¿½)",each (ea),40
+PVC Short Elbow:PSE-2,"Unidex/Royu PVC Short Elbow 63mm ï¿½ (2""ï¿½) *R54",each (ea),55
 Aircon Parts:Universal A/C Control System,Universal A/C Control System,,1155
 Square Utility Box,Universal Wall Switch Outlet Enclosure 8.6x8.6x5cm,each (ea),65
 Uniweld:High Pressure Gauge:R1222502:Red,Uniweld High Pressure Gauge Red,each (ea),610
@@ -4007,14 +4009,14 @@ Wiremax:WM5.5 mm. sq.:Per Rolls-150Mtrs.:5.5WMTHHN,Wiremax 5.5 mm. Sq. THHN/THWN
 Wiremax:triplex service drop:6/7,Wiremax Triplex Drop Wire ACSR Service 6/7,Rolls (Rll),12455
 Strip Light LED  WaterProof:Phone Control,with Phone Control,,0
 Wixim:Emergency Stop:LAY5-102,Wixin Emergency Stop Red (LAY5-BS542),piece (pc),249.5
-"Xacto:PVC Conduit Pipe Thick Wall:20mm Ø (1/2"" Ø):EPX-12","Xacto PVC Conduit Pipe 20mm Ø (1/2"" Ø) Thick Wall",each (ea),90
-"Xacto:PVC Conduit Pipe Thick Wall:25mm Ø (3/4"" Ø):EPX-34","Xacto PVC Conduit Pipe 25mm Ø (3/4"" Ø) Thick Wall",each (ea),135
-"Xacto:PVC Conduit Pipe Thick Wall:32mm Ø (1"" Ø):EPX-100","Xacto PVC Conduit Pipe 32mm Ø (1"" Ø) Thick Wall",each (ea),184
-"Xacto:PVC Conduit Pipe Thick Wall:40mm Ø (1-1/4"" Ø):EPX-114","Xacto PVC Conduit Pipe 40mm Ø (1-1/4"" Ø) Thick Wall",each (ea),238
-"Xacto:PVC Conduit Pipe Thick Wall:50mm Ø (1-1/2"" Ø):EPX-112","Xacto PVC Conduit Pipe 50mm Ø (1-1/2"" Ø) Thick Wall",each (ea),297
-"Xacto:PVC Conduit Pipe Thick Wall:63mm Ø (2"" Ø):EPX-200","Xacto PVC Conduit Pipe 63mm Ø (2"" Ø) Thick Wall",each (ea),391
-"Xacto:PVC Conduit Pipe Thick Wall:80mm Ø (2-1/2"" Ø):EPX-212","Xacto PVC Conduit Pipe 80mm Ø (2-1/2"" Ø) Thick Wall",each (ea),534
-"Xacto:PVC Conduit Pipe Thick Wall:90mm Ø (3"" Ø):EPX-300","Xacto PVC Conduit Pipe 90mm Ø (3"" Ø) Thick Wall",each (ea),784
+"Xacto:PVC Conduit Pipe Thick Wall:20mm ï¿½ (1/2"" ï¿½):EPX-12","Xacto PVC Conduit Pipe 20mm ï¿½ (1/2"" ï¿½) Thick Wall",each (ea),90
+"Xacto:PVC Conduit Pipe Thick Wall:25mm ï¿½ (3/4"" ï¿½):EPX-34","Xacto PVC Conduit Pipe 25mm ï¿½ (3/4"" ï¿½) Thick Wall",each (ea),135
+"Xacto:PVC Conduit Pipe Thick Wall:32mm ï¿½ (1"" ï¿½):EPX-100","Xacto PVC Conduit Pipe 32mm ï¿½ (1"" ï¿½) Thick Wall",each (ea),184
+"Xacto:PVC Conduit Pipe Thick Wall:40mm ï¿½ (1-1/4"" ï¿½):EPX-114","Xacto PVC Conduit Pipe 40mm ï¿½ (1-1/4"" ï¿½) Thick Wall",each (ea),238
+"Xacto:PVC Conduit Pipe Thick Wall:50mm ï¿½ (1-1/2"" ï¿½):EPX-112","Xacto PVC Conduit Pipe 50mm ï¿½ (1-1/2"" ï¿½) Thick Wall",each (ea),297
+"Xacto:PVC Conduit Pipe Thick Wall:63mm ï¿½ (2"" ï¿½):EPX-200","Xacto PVC Conduit Pipe 63mm ï¿½ (2"" ï¿½) Thick Wall",each (ea),391
+"Xacto:PVC Conduit Pipe Thick Wall:80mm ï¿½ (2-1/2"" ï¿½):EPX-212","Xacto PVC Conduit Pipe 80mm ï¿½ (2-1/2"" ï¿½) Thick Wall",each (ea),534
+"Xacto:PVC Conduit Pipe Thick Wall:90mm ï¿½ (3"" ï¿½):EPX-300","Xacto PVC Conduit Pipe 90mm ï¿½ (3"" ï¿½) Thick Wall",each (ea),784
 Phelps Dodge:THHN-THWN-2:PD14.0 mm. sq.:Per Rolls-150Mtrs.:14PDTHHN YELLOW,YELLOW- 150m- Phelps Dodge 14.0 mm. Sq. THHN/THWN-2 C.U. Wire 150Mtrs.,Rolls (Rll),29039.5
 Ian Solar Marketing:DC-Circuit Bkr.:162DC,YESEIZN 16A DC Ckt. Bkr. 250V (YSB1-63Z),each (ea),575
 Ian Solar Marketing:DC-Circuit Bkr.:252DC,YESEIZN 25A DC Ckt. Bkr. 250V (YSB1-63Z),piece (pc),500
