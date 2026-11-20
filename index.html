@@ -330,7 +330,7 @@
 
     input[type="text"] {
       width: 100%;
-      padding: 12px 14px;
+      padding: 12px 40px 12px 14px; /* Extra right padding for clear button */
       border: 1px solid var(--border);
       border-radius: 8px;
       background: #fff;
@@ -343,6 +343,31 @@
       outline: none;
       border-color: var(--accent);
       box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.15);
+    }
+
+    .search-clear-btn {
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: #e2e8f0;
+      color: var(--text-muted);
+      border: none;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      font-size: 1rem;
+      line-height: 1;
+      cursor: pointer;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .search-clear-btn:hover {
+      background: #cbd5e1;
+      color: var(--text-main);
     }
 
     .search-suggestions-box {
@@ -932,6 +957,7 @@
       <div class="section-title">Smart Search Items</div>
       <div class="search-wrapper">
         <input type="text" id="searchInput" placeholder="Type to search products, categories, or keywords..." autocomplete="off" />
+        <button type="button" id="clearSearchBtn" class="search-clear-btn" title="Clear search">&times;</button>
         <div id="searchSuggestions" class="search-suggestions-box"></div>
       </div>
       <div id="quickFilters" class="quick-filters"></div>
@@ -1268,6 +1294,32 @@
     }
 
     // --- SMART SEARCH & SUGGESTIONS LOGIC ---
+    const searchInput = document.getElementById('searchInput');
+    const clearSearchBtn = document.getElementById('clearSearchBtn');
+    const suggestionsBox = document.getElementById('searchSuggestions');
+
+    function updateClearButtonVisibility() {
+      clearSearchBtn.style.display = searchInput.value.length > 0 ? 'flex' : 'none';
+    }
+
+    function clearSearch(shouldFocus = false) {
+      clearTimeout(debounceTimer);
+      searchInput.value = '';
+      suggestionsBox.style.display = 'none';
+      updateClearButtonVisibility();
+
+      // Reset quick filter pills back to "All Items"
+      const pills = document.querySelectorAll('.filter-pill');
+      if (pills.length > 0) {
+        pills.forEach(p => p.classList.remove('active'));
+        pills[0].classList.add('active');
+      }
+
+      triggerSearch('');
+      if (shouldFocus) searchInput.focus();
+    }
+
+    clearSearchBtn.addEventListener('click', () => clearSearch(true));
 
     function setupQuickFilters() {
       const quickFiltersEl = document.getElementById('quickFilters');
@@ -1286,14 +1338,7 @@
       const allPill = document.createElement('div');
       allPill.className = 'filter-pill active';
       allPill.textContent = 'All Items';
-      allPill.onclick = () => {
-        document.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
-        allPill.classList.add('active');
-        document.getElementById('searchInput').value = '';
-        filteredRows = [...parsedRows];
-        currentPage = 1;
-        renderTablePage();
-      };
+      allPill.onclick = () => clearSearch(false);
       quickFiltersEl.appendChild(allPill);
 
       uniqueTags.forEach(tag => {
@@ -1303,17 +1348,16 @@
         pill.onclick = () => {
           document.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
           pill.classList.add('active');
-          document.getElementById('searchInput').value = tag;
-          triggerSearch(tag);
+          searchInput.value = tag;
+          updateClearButtonVisibility();
+          triggerSearch(tag.toLowerCase());
         };
         quickFiltersEl.appendChild(pill);
       });
     }
 
-    const searchInput = document.getElementById('searchInput');
-    const suggestionsBox = document.getElementById('searchSuggestions');
-
     searchInput.addEventListener('input', function(e) {
+      updateClearButtonVisibility();
       const keyword = e.target.value.toLowerCase().trim();
 
       clearTimeout(debounceTimer);
@@ -1380,6 +1424,7 @@
 
         div.onclick = () => {
           searchInput.value = match.colA;
+          updateClearButtonVisibility();
           suggestionsBox.style.display = 'none';
           triggerSearch(match.colA.toLowerCase());
         };
@@ -1486,6 +1531,11 @@
           animateAddToCart(e.currentTarget);
           addToCart(item, qty, targetCartId);
           qtyInput.value = '1';
+
+          // Clear search bar if there is an active search term
+          if (searchInput.value.trim().length > 0) {
+            clearSearch(false);
+          }
         };
 
         actionsDiv.appendChild(qtyControl);
