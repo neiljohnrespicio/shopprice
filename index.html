@@ -316,10 +316,24 @@
       flex-wrap: wrap;
     }
 
+    .file-source-details {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
     .file-name-label {
       font-size: 0.875rem;
       color: var(--text-muted);
       word-break: break-all;
+    }
+
+    .last-updated-label {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
     }
 
     /* SMART SEARCH WRAPPER & DROPDOWN */
@@ -330,7 +344,7 @@
 
     input[type="text"] {
       width: 100%;
-      padding: 12px 40px 12px 14px; /* Extra right padding for clear button */
+      padding: 12px 40px 12px 14px;
       border: 1px solid var(--border);
       border-radius: 8px;
       background: #fff;
@@ -944,9 +958,12 @@
     <!-- Active Database Info Bar -->
     <div id="fileInfoCard" class="card" style="display: block;">
       <div class="file-status-bar">
-        <div>
-          <span style="font-weight: 600; color: var(--primary);">Active Source: </span>
-          <span id="fileNameDisplay" class="file-name-label">GitHub Database Link</span>
+        <div class="file-source-details">
+          <div>
+            <span style="font-weight: 600; color: var(--primary);">Active Source: </span>
+            <span id="fileNameDisplay" class="file-name-label">GitHub Database Link</span>
+          </div>
+          <div id="lastUpdatedDisplay" class="last-updated-label">🕒 Last Updated: Checking...</div>
         </div>
         <div id="statusMessage" class="status" style="color: #eab308;">Fetching from GitHub...</div>
       </div>
@@ -1097,6 +1114,7 @@
 
     // --- APPLICATION LOGIC ---
     const GITHUB_DATABASE_URL = "https://raw.githubusercontent.com/neiljohnrespicio/shopprice/refs/heads/main/shop.CSV";
+    const GITHUB_COMMITS_API_URL = "https://api.github.com/repos/neiljohnrespicio/shopprice/commits?path=shop.CSV&page=1&per_page=1";
 
     const EMBEDDED_FALLBACK = [
       ["Item Name", "Description", "Category", "Price"],
@@ -1125,6 +1143,41 @@
       });
     }
 
+    function formatDateTime(dateInput) {
+      const d = new Date(dateInput);
+      if (isNaN(d.getTime())) return 'Unknown';
+      return d.toLocaleString('en-US', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        hour12: true
+      });
+    }
+
+    function fetchGithubLastUpdated() {
+      const lastUpdatedEl = document.getElementById('lastUpdatedDisplay');
+      lastUpdatedEl.textContent = '🕒 Last Updated: Checking...';
+
+      fetch(GITHUB_COMMITS_API_URL)
+        .then(res => {
+          if (!res.ok) throw new Error('GitHub API error');
+          return res.json();
+        })
+        .then(commits => {
+          if (Array.isArray(commits) && commits.length > 0 && commits[0].commit && commits[0].commit.committer) {
+            const commitDate = commits[0].commit.committer.date;
+            lastUpdatedEl.innerHTML = `🕒 Last Updated: <strong style="color: var(--primary);">${formatDateTime(commitDate)}</strong>`;
+          } else {
+            lastUpdatedEl.textContent = '🕒 Last Updated: Unavailable';
+          }
+        })
+        .catch(() => {
+          lastUpdatedEl.textContent = '🕒 Last Updated: Unavailable';
+        });
+    }
+
     const cartModal = document.getElementById('cartModal');
     const openCartModalBtn = document.getElementById('openCartModalBtn');
     const closeCartModalBtn = document.getElementById('closeCartModalBtn');
@@ -1143,6 +1196,8 @@
     function initApp() {
       const fileNameDisplay = document.getElementById('fileNameDisplay');
       fileNameDisplay.textContent = GITHUB_DATABASE_URL.split('/').pop().split('?')[0] || 'GitHub Database';
+
+      fetchGithubLastUpdated();
 
       fetch(GITHUB_DATABASE_URL)
         .then(response => {
@@ -1169,6 +1224,7 @@
         })
         .catch(error => {
           showError('Failed to load from GitHub link. Loaded fallback data instead.');
+          document.getElementById('lastUpdatedDisplay').textContent = '🕒 Last Updated: N/A (Fallback Data)';
           processRawRows(EMBEDDED_FALLBACK, 'Embedded Fallback Data');
         });
     }
@@ -1179,8 +1235,10 @@
 
       const fileInfoCard = document.getElementById('fileInfoCard');
       const fileNameDisplay = document.getElementById('fileNameDisplay');
+      const lastUpdatedDisplay = document.getElementById('lastUpdatedDisplay');
       fileInfoCard.style.display = 'block';
       fileNameDisplay.textContent = file.name;
+      lastUpdatedDisplay.innerHTML = `🕒 File Modified: <strong style="color: var(--primary);">${formatDateTime(file.lastModified)}</strong>`;
 
       const reader = new FileReader();
       const isCsv = file.name.toLowerCase().endsWith('.csv');
